@@ -578,7 +578,7 @@
 	padding-bottom: 62px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/logo-white.png") no-repeat center center;
+	background: transparent url("../images/xlogo-white.png") no-repeat center center;
 }
 
 #home
@@ -905,7 +905,7 @@
 	position: fixed;
 	top: 80px;
 	left: 0px;
-	background: transparent url("../images/logo-white.png") no-repeat center center;
+	background: transparent url("../images/чlogo-white.png") no-repeat center center;
 }
 
 #menuu306
@@ -1327,6 +1327,46 @@
 	margin-left: 400px;
 	margin-top: 64px;
 	position: relative;
+}
+
+#u366-60
+{
+	z-index: 149;
+	width: 370px;
+	min-height: 33px;
+	background-color: transparent;
+	line-height: 31px;
+	color: #1E90FF;
+	font-size: 50px;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 400;
+	margin-left: 500px;
+	margin-top: 220px;
+	position: relative;
+}
+
+#u366-600
+{
+	z-index: 149;
+	width: 370px;
+	min-height: 33px;
+	background-color: transparent;
+	line-height: 31px;
+	color: #dddddd;
+	font-size: 22px;
+	text-align: left;
+	font-family: intro, sans-serif;
+	font-weight: 400;
+	margin-left: -250px;
+	margin-top: -350px;
+	position: relative;
+}
+
+#u366-30
+{
+	font-family: raleway, sans-serif;
+	font-weight: 300;
 }
 
 #u366-3
@@ -3240,7 +3280,7 @@
 {
 	z-index: 7;
 	min-height: 185px;
-	background-color: #101010;
+	background-color: #252525;
 	padding-bottom: 81px;
 }
 
@@ -5334,7 +5374,7 @@
 	margin-right: -10000px;
 	margin-top: 23px;
 	left: 900px;
-	background: transparent url("../images/xjquery.png") no-repeat center center;
+	background: transparent url("../images/jquery.png") no-repeat center center;
 }
 
 #u1044-4
