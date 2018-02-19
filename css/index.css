@@ -1393,6 +1393,7 @@
 	background-size: cover;
 }
 
+
 #u377-4
 {
 	z-index: 173;
@@ -1981,7 +1982,7 @@
 	background-color: transparent;
 	line-height: 23px;
 	color: #FFFFFF;
-	font-size: 12px;
+	font-size: 14px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
@@ -2192,7 +2193,7 @@
 	background-color: transparent;
 	line-height: 23px;
 	color: #B2B2B2;
-	font-size: 12px;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
@@ -2290,7 +2291,7 @@
 	background-color: transparent;
 	line-height: 23px;
 	color: #B2B2B2;
-	font-size: 12px;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
@@ -2429,7 +2430,7 @@
 	background-color: transparent;
 	line-height: 23px;
 	color: #B2B2B2;
-	font-size: 12px;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
@@ -2468,6 +2469,7 @@
 	border-style: none;
 	margin-right: -10000px;
 	position: relative;
+	margin-top: 15px;
 	background: transparent url("../images/tabs.jpg") no-repeat center center;
 }
 
@@ -3471,7 +3473,7 @@
 	width: 566px;
 	border-width: 2px;
 	border-style: solid;
-	border-color: #292929;
+	border-color: #0080FF;
 	background-color: transparent;
 	padding-bottom: 20px;
 	position: relative;
@@ -3485,14 +3487,14 @@
 	min-height: 80px;
 	background-color: transparent;
 	line-height: 24px;
-	color: #B2B2B2;
-	font-size: 12px;
+	color: #ffffff;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 29px;
+	margin-top: 20px;
 	left: 33px;
 }
 
@@ -3502,7 +3504,7 @@
 	width: 566px;
 	border-width: 2px;
 	border-style: solid;
-	border-color: #292929;
+	border-color: #0080FF;
 	background-color: transparent;
 	padding-bottom: 20px;
 	position: relative;
@@ -3517,14 +3519,14 @@
 	min-height: 80px;
 	background-color: transparent;
 	line-height: 24px;
-	color: #B2B2B2;
-	font-size: 12px;
+	color: #ffffff;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 29px;
+	margin-top: 20px;
 	left: 33px;
 }
 
@@ -3633,7 +3635,7 @@
 	width: 566px;
 	border-width: 2px;
 	border-style: solid;
-	border-color: #292929;
+	border-color: #0080FF;
 	background-color: transparent;
 	padding-bottom: 20px;
 	position: relative;
@@ -3647,14 +3649,14 @@
 	min-height: 80px;
 	background-color: transparent;
 	line-height: 24px;
-	color: #B2B2B2;
-	font-size: 12px;
+	color: #ffffff;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 29px;
+	margin-top: 20px;
 	left: 33px;
 }
 
@@ -3664,7 +3666,7 @@
 	width: 566px;
 	border-width: 2px;
 	border-style: solid;
-	border-color: #292929;
+	border-color: #0080FF;
 	background-color: transparent;
 	padding-bottom: 20px;
 	position: relative;
@@ -3679,14 +3681,14 @@
 	min-height: 80px;
 	background-color: transparent;
 	line-height: 24px;
-	color: #B2B2B2;
-	font-size: 12px;
+	color: #ffffff;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 29px;
+	margin-top: 20px;
 	left: 33px;
 }
 
@@ -4164,6 +4166,23 @@
 	font-weight: 400;
 	margin-left: 400px;
 	margin-top: 73px;
+	position: relative;
+}
+
+#u786-44
+{
+	z-index: 577;
+	width: 370px;
+	min-height: 33px;
+	background-color: transparent;
+	line-height: 31px;
+	color: #eeeeee;
+	font-size: 26px;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 400;
+	margin-left: 400px;
+	margin-top: -260px;
 	position: relative;
 }
 
@@ -5315,7 +5334,7 @@
 	margin-right: -10000px;
 	margin-top: 23px;
 	left: 900px;
-	background: transparent url("../images/jquery.png") no-repeat center center;
+	background: transparent url("../images/xjquery.png") no-repeat center center;
 }
 
 #u1044-4
@@ -5335,7 +5354,7 @@
 	position: relative;
 }
 
-#u285,#u253,#u292,#u366,#u786,#u1044
+#u285,#u253,#u292,#u366,#u786,#u1044,#u7864
 {
 	font-family: raleway, sans-serif;
 	font-weight: 600;

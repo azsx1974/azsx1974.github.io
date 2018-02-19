@@ -94,7 +94,7 @@ table { border-collapse: collapse; border-spacing: 0; }
 *, *:before, *:after { -moz-box-sizing: border-box; box-sizing: border-box; }
 
 /* Global Styles */
-body { background-color: #151215; color: #aea9ad; font-family: Arial, "Open Sans", serif; font-size: 16px; font-weight: 400; line-height: 1.5; }
+body { background-color: #151215; color: #dedede; font-family: Arial, "Open Sans", serif; font-size: 16px; font-weight: 400; line-height: 1.5; }
 
 a { text-decoration: none; color: #aea9ad; border-bottom: 1px solid transparent; -webkit-transition: .3s ease; transition: .3s ease; }
 a:hover { color: white; }
@@ -642,7 +642,7 @@ form input:not([type="submit"]), form textarea { padding: 20px 20px; background:
 #branding .site-title { color: white; font-size: 14px; font-size: 0.95rem; font-family: "Novecento Sans", "Open Sans", sans-serif; text-transform: uppercase; margin: 0; line-height: 1; }
 #branding .site-title a { color: white; }
 #branding .site-description { font-size: 13px; font-size: 0.8125rem; }
-#branding .site-description2 { font-size: 13px; font-size: 1.8125rem; }
+#branding .site-description2 { font-size: 13px; font-size: 1.2rem; }
 .main-navigation { float: right; }
 .main-navigation .menu-toggle { background-color: transparent; border: none; color: white; display: inline-block; display: none; outline: none; }
 @media screen and (max-width: 990px) { .main-navigation .menu-toggle { display: block; } }
