@@ -1,3 +1,29 @@
+
+@font-face {
+    font-family: DroidSerif; /* Имя шрифта */
+    src: url(fonts/DroidSerif-Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+   P {
+    font-family: DroidSerif;
+   }
+
+h1 {
+    font-family: DroidSerif;
+   }
+
+h3 {
+    font-family: DroidSerif;
+   }
+
+h2 {
+    font-family: DroidSerif;
+   }
+
+p {
+    font-family: DroidSerif;
+   }
+
+
 #pu811.PamphletThumbSelected #u811,#pu811:hover #u811
 {
 	width: 84px;
@@ -57,9 +83,11 @@
 	background-color: #F67E47;
 }
 
+
+
 .html
 {
-	background-color: #181818;
+	background-color: #bbbbbb;
 }
 
 #page
@@ -70,7 +98,7 @@
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
-	background-color: #181818;
+	background-color: #bbbbbb;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -884,7 +912,7 @@
 	height: 79px;
 	border-style: solid;
 	border-color: #181818;
-	background-color: #0020FF;
+	background-color: #222229;
 	border-width: 0px 0px 1px;
 }
 
@@ -1319,7 +1347,7 @@
 	min-height: 33px;
 	background-color: transparent;
 	line-height: 31px;
-	color: #FFFFFF;
+	color: #000000;
 	font-size: 26px;
 	text-align: center;
 	font-family: raleway, sans-serif;
@@ -1382,13 +1410,13 @@
 	min-height: 55px;
 	background-color: transparent;
 	line-height: 22px;
-	color: #EDEDED;
+	color: #111111;
 	font-size: 20px;
 	text-align: center;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
 	margin-left: 200px;
-	margin-top: 35px;
+	margin-top: 5px;
 	position: relative;
 }
 
@@ -1457,7 +1485,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 19px;
-	color: #EEEEEE;
+	color: #222222;
 	font-size: 18px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -1474,7 +1502,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 19px;
-	color: #EEEEEE;
+	color: #222222;
 	font-size: 18px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -1513,7 +1541,7 @@
 	min-height: 77px;
 	background-color: transparent;
 	line-height: 23px;
-	color: #B2B2B2;
+	color: #111111
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -2217,7 +2245,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 19px;
-	color: #EEEEEE;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -2232,7 +2260,7 @@
 	min-height: 56px;
 	background-color: transparent;
 	line-height: 23px;
-	color: #B2B2B2;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -2315,7 +2343,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 19px;
-	color: #EEEEEE;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -2330,7 +2358,7 @@
 	min-height: 56px;
 	background-color: transparent;
 	line-height: 23px;
-	color: #B2B2B2;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -2445,7 +2473,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 19px;
-	color: #EEEEEE;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -2469,7 +2497,7 @@
 	min-height: 56px;
 	background-color: transparent;
 	line-height: 23px;
-	color: #B2B2B2;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -2550,7 +2578,7 @@
 {
 	z-index: 6;
 	min-height: 636px;
-	background-color: #2d2d44;
+	background-color: #222231;
 	padding-bottom: 52px;
 }
 
@@ -3527,7 +3555,7 @@
 	min-height: 80px;
 	background-color: transparent;
 	line-height: 24px;
-	color: #ffffff;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3559,7 +3587,7 @@
 	min-height: 80px;
 	background-color: transparent;
 	line-height: 24px;
-	color: #ffffff;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3591,7 +3619,7 @@
 	min-height: 27px;
 	background-color: transparent;
 	line-height: 26px;
-	color: #EEEEEE;
+	color: #222222;
 	font-size: 13px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3606,7 +3634,7 @@
 	min-height: 27px;
 	background-color: transparent;
 	line-height: 22px;
-	color: #EDEDED;
+	color: #222222;
 	font-size: 11px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3638,7 +3666,7 @@
 	min-height: 27px;
 	background-color: transparent;
 	line-height: 26px;
-	color: #EEEEEE;
+	color: #222222;
 	font-size: 13px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3653,7 +3681,7 @@
 	min-height: 27px;
 	background-color: transparent;
 	line-height: 22px;
-	color: #EDEDED;
+	color: #222222;
 	font-size: 11px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3689,7 +3717,7 @@
 	min-height: 80px;
 	background-color: transparent;
 	line-height: 24px;
-	color: #ffffff;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3721,7 +3749,7 @@
 	min-height: 80px;
 	background-color: transparent;
 	line-height: 24px;
-	color: #ffffff;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3767,7 +3795,7 @@
 	min-height: 27px;
 	background-color: transparent;
 	line-height: 26px;
-	color: #EEEEEE;
+	color: #222222;
 	font-size: 13px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3782,7 +3810,7 @@
 	min-height: 27px;
 	background-color: transparent;
 	line-height: 22px;
-	color: #EDEDED;
+	color: #222222;
 	font-size: 11px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3822,7 +3850,7 @@
 	min-height: 27px;
 	background-color: transparent;
 	line-height: 26px;
-	color: #EEEEEE;
+	color: #222222;
 	font-size: 13px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -3837,7 +3865,7 @@
 	min-height: 27px;
 	background-color: transparent;
 	line-height: 22px;
-	color: #EDEDED;
+	color: #222222;
 	font-size: 11px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -4197,12 +4225,12 @@
 	z-index: 577;
 	width: 370px;
 	min-height: 33px;
-	background-color: transparent;
+	g-color: transparent;
 	line-height: 31px;
-	color: #FFFFFF;
+	color: #222222;
 	font-size: 26px;
 	text-align: center;
-	font-family: raleway, sans-serif;
+	font-family: raleway, DroidSerif;
 	font-weight: 400;
 	margin-left: 400px;
 	margin-top: 73px;
@@ -4216,7 +4244,7 @@
 	min-height: 33px;
 	background-color: transparent;
 	line-height: 31px;
-	color: #eeeeee;
+	color: #333333;
 	font-size: 26px;
 	text-align: center;
 	font-family: raleway, sans-serif;
@@ -4233,7 +4261,7 @@
 	min-height: 59px;
 	background-color: transparent;
 	line-height: 22px;
-	color: #EDEDED;
+	color: #333333;
 	font-size: 18px;
 	text-align: center;
 	font-family: raleway, sans-serif;
@@ -5384,7 +5412,7 @@
 	min-height: 33px;
 	background-color: transparent;
 	line-height: 31px;
-	color: #FFFFFF;
+	color: #222222;
 	font-size: 26px;
 	text-align: center;
 	font-family: raleway, sans-serif;
@@ -5396,7 +5424,7 @@
 
 #u285,#u253,#u292,#u366,#u786,#u1044,#u7864
 {
-	font-family: raleway, sans-serif;
+	font-family: raleway, droidsherif;
 	font-weight: 600;
 }
 
@@ -5407,7 +5435,7 @@
 	min-height: 59px;
 	background-color: transparent;
 	line-height: 22px;
-	color: #EDEDED;
+	color: #222222;
 	font-size: 18px;
 	text-align: center;
 	font-family: raleway, sans-serif;
@@ -5421,7 +5449,7 @@
 {
 	z-index: 3;
 	min-height: 147px;
-	background-color: #101010;
+	background-color: #222232;
 	padding-bottom: 77px;
 }
 
@@ -6093,7 +6121,7 @@
 	min-height: 31px;
 	background-color: transparent;
 	line-height: 29px;
-	color: #EDEDED;
+	color: #222222;
 	font-size: 13px;
 	text-align: left;
 	font-family: raleway, sans-serif;
