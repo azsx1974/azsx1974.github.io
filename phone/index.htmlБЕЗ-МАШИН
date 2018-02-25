@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html class="html" lang="en-US">
+ <head>
+
+  <script type="text/javascript">
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musepolyfill.bgsize.js", "index.css"], "outOfDate":[]};
+</script>
+  
+  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta name="generator" content="2015.0.1.310"/>
+  <title>Home</title>
+  <meta name="viewport" content="width=380"/>
+  <link rel="canonical" href="http://yours.co/index.html"/>
+  <!-- CSS -->
+  <link rel="stylesheet" type="text/css" href="../css/site_global.css?369589621"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?535880219" id="pagesheet"/>
+  <!--[if lt IE 9]>
+  <link rel="stylesheet" type="text/css" href="css/iefonts_index.css?3972648253"/>
+  <![endif]-->
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   document.documentElement.className += ' js';
+var __adobewebfontsappname__ = "muse";
+</script>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/raleway:n3,n6,n4,n7,n5:default;open-sans:n4:default.js" type="text/javascript">\x3C/script>');
+</script>
+  <!--[if lt IE 9]>
+  <script src="../scripts/html5shiv.js?4241844378" type="text/javascript"></script>
+  <![endif]-->
+    <!--custom head HTML-->
+  <style>
+
+.rounded-corners, .Button div, .rounded-corners p {
+    -moz-transition: all 0.3s ease-in-out;
+    -webkit-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    -ms-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out;
+}
+
+</style>
+
+<style>
+::-moz-selection {
+    background-color: #20ca9c !important;
+    color: #fff;
+}
+::selection {
+    background-color: #20ca9c !important;
+    color: #fff;
+}
+</style>
+<style>
+::-moz-selection {
+    background-color: #20ca9c !important;
+    color: #fff;
+}
+::selection {
+    background-color: #20ca9c !important;
+    color: #fff;
+}
+</style>
+ </head>
+ <body>
+
+  <div class="clearfix" id="page"><!-- column -->
+   <div class="position_content" id="page_position_content">
+    <div class="browser_width mse_pre_init" id="u5362-bw">
+     <div id="u5362"><!-- simple frame --></div>
+    </div>
+    <a class="anchor_item colelem" id="home"></a>
+    <div class="clearfix colelem" id="pu5406"><!-- group -->
+     <div class="mse_pre_init" id="u5406"><!-- simple frame --></div>
+     <div class="PamphletWidget clearfix mse_pre_init" id="pamphletu5188"><!-- none box -->
+      <div class="popup_anchor" id="u5194popup">
+       <div class="ContainerGroup clearfix" id="u5194"><!-- none box -->
+        <div class="Container invi rgba-background clearfix grpelem" id="u5195"><!-- group -->
+         <nav class="MenuBar clearfix grpelem" id="menuu5761"><!-- vertical box -->
+          <div class="MenuItemContainer clearfix colelem" id="u5762"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u5763" href="index.html#home"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5766-4"><!-- content --><p>ГЛАВНАЯ</p></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem" id="u5769"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u5770" href="index.html#about"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5773-4"><!-- content --><p>О НАС</p></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem" id="u5797"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u5798" href="index.html#services"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5800-4"><!-- content --><p>УСЛУГИ</p></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem" id="u5776"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u5777" href="index.html#team"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5778-4"><!-- content --><p>ЦЕНЫ</p></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem" id="u5783"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u5784" href="index.html#portfolio"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5785-4"><!-- content --><p>РАБОТЫ</p></div></a>
+          </div>
+          <div class="MenuItemContainer clearfix colelem" id="u5790"><!-- horizontal box -->
+           <a class="nonblock nontext MenuItem MenuItemWithSubMenu anim_swing clearfix grpelem" id="u5793" href="index.html#contact"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u5796-4"><!-- content --><p>КОНТАКТЫ</p></div></a>
+          </div>
+         </nav>
+        </div>
+       </div>
+      </div>
+      <div class="ThumbGroup clearfix grpelem" id="u5260"><!-- none box -->
+       <div class="popup_anchor">
+        <div class="Thumb popup_element clearfix" id="u5261"><!-- group -->
+         <img class="grpelem" id="u5262" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+  
+
+   
+  <a class="anchor_item colelem" id="about"></a>
+    <div class="clearfix colelem" id="u5413-60"><!-- content -->
+     <p><span id="u54130">xТонировка</span> <span id="u5413-30"><!--yours--></span></p>
+     <br>
+     <p><span id="u54130">Автовинил</span> <span id="u5413-30"><!--yours--></span></p>
+     <br>
+     <p><span id="u54130">Антигравийная защита</span> <span id="u5413-30"><!--yours--></span></p>
+    </div>
+    <div class="clearfix colelem" id="u5414-40"><!-- content -->
+     <p>На протяжении многих лет<br /><br /></p>
+	<p>мы предоставляем услуги<br /><br /></p>
+     <p>по тонированию автомобилей<br /><br /></p>
+	<p>различных уровней сложности.<br /><br /></p>
+     <p>На сегодняшний день <br /><br /></p>
+	<p> мы выполняем такие виды работ:<br /><br /></p>
+	<hr align="center" width="auto" color="Grey" />
+    </div> 
+   
+    
+    <a class="anchor_item colelem" id="about"></a>
+    <div class="clearfix colelem" id="u5413-6"><!-- content -->
+     <p><span id="u5413">Информация</span> <span id="u5413-3"><!--yours--></span></p>
+    </div>
+    <div class="clearfix colelem" id="u5414-4"><!-- content -->
+     <p>На протяжении многих лет<br /><br /></p>
+	<p>мы предоставляем услуги<br /><br /></p>
+     <p>по тонированию автомобилей<br /><br /></p>
+	<p>различных уровней сложности.<br /><br /></p>
+     <p>На сегодняшний день <br /><br /></p>
+	<p> мы выполняем такие виды работ:<br /><br /></p>
+	<hr align="center" width="auto" color="Grey" />
+    </div>
+    <div class="museBGSize colelem" id="u5421"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="u5418-4"><!-- content -->
+     <p>Тонировка</p>
+    </div>
+    <div class="clearfix colelem" id="u5415-4"><!-- content -->
+     <p>Самый доступный и эффективный вид внешнего тюнинга. На тонировку стекол мы предоставляем бессрочную гарантию.</p>
+    </div>
+    <div class="museBGSize colelem" id="u5422"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="u5419-4"><!-- content -->
+     <p>Антигравийная защита</p>
+    </div>
+    <div class="clearfix colelem" id="u5416-4"><!-- content -->
+     <p>Бронирование кузова с помощью специальной пленки обеспечивает защиту автомобиля от механических и химических воздействий.</p>
+    </div>
+    <div class="museBGSize colelem" id="u5423"><!-- simple frame --></div>
+    <div class="clearfix colelem" id="u5420-4"><!-- content -->
+     <p>Автовинил</p>
+    </div>
+    <div class="clearfix colelem" id="u5417-4"><!-- content -->
+     <p>Высококачественная пленка используется для полной или частичной оклейки автомобилей с целью изменения внешнего вида.</p>
+    </div>
+    <div class="browser_width colelem" id="u5424-bw">
+     <div class="museBGSize clearfix" id="u5424"><!-- group -->
+      <div class="clearfix grpelem" id="u5425-4"><!-- content -->
+       <p>Все работы проводятся </p>
+	<hr align="center" width="300" color="Grey" />
+	<p>в максимально короткие сроки</p>
+	<br /><br />
+	<p>Группа<a href="https://vk.com/club125540245" style="color:Red"> Вконтакте </a></p>
+      </div>
+     </div>
+    </div>
+    <div class="Button clearfix colelem" id="buttonu5426"><!-- container box -->
+     <div class="clearfix colelem" id="pu5430"><!-- group -->
+      <div class="rounded-corners grpelem" id="u5430"><!-- simple frame --></div>
+      <img class="grpelem" id="u5429" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix colelem" id="u5427-4"><!-- content -->
+      <p>Responsive Deisgn</p>
+     </div>
+     <div class="clearfix colelem" id="u5428-4"><!-- content -->
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquam magna massa, a aliquam mauris pellentesque a.</p>
+     </div>
+    </div>
+    <div class="Button clearfix colelem" id="buttonu5431"><!-- container box -->
+     <div class="clearfix colelem" id="pu5433"><!-- group -->
+      <div class="rounded-corners grpelem" id="u5433"><!-- simple frame --></div>
+      <img class="grpelem" id="u5435" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+     </div>
+     <div class="clearfix colelem" id="u5434-4"><!-- content -->
+      <p>Unlimited Styles</p>
+     </div>
+     <div class="clearfix colelem" id="u5432-4"><!-- content -->
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquam magna massa, a aliquam mauris pellentesque a.</p>
+     </div>
+    </div>
+    <div class="Button clearfix colelem" id="buttonu5436"><!-- container box -->
+     <div class="position_content" id="buttonu5436_position_content">
+      <div class="clearfix colelem" id="pu5439"><!-- group -->
+       <div class="rounded-corners grpelem" id="u5439"><!-- simple frame --></div>
+       <img class="grpelem" id="u5437" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+      </div>
+      <div class="clearfix colelem" id="u5440-4"><!-- content -->
+       <p>Extensive Documentation</p>
+      </div>
+      <div class="clearfix colelem" id="u5438-4"><!-- content -->
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquam magna massa, a aliquam mauris pellentesque a.</p>
+      </div>
+     </div>
+    </div>
+    <div class="Button clearfix colelem" id="buttonu5441"><!-- container box -->
+     <div class="position_content" id="buttonu5441_position_content">
+      <div class="clearfix colelem" id="pu5444"><!-- group -->
+       <div class="rounded-corners grpelem" id="u5444"><!-- simple frame --></div>
+       <img class="grpelem" id="u5445" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+      </div>
+      <div class="clearfix colelem" id="u5442-4"><!-- content -->
+       <p>Customer Support</p>
+      </div>
+      <div class="clearfix colelem" id="u5443-4"><!-- content -->
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam aliquam magna massa, a aliquam mauris pellentesque a.</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu5446"><!-- group -->
+     <div class="browser_width grpelem" id="u5446-bw">
+      <div class="museBGSize clearfix" id="u5446"><!-- column -->
+       <div class="colelem" id="u5449"><!-- custom html -->
+        <iframe src="https://player.vimeo.com/video/61373732?title=0&byline=0&portrait=0" width="340" height="200" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="https://vimeo.com/61373732">
+</div>
+       <div class="clearfix colelem" id="u5447-6"><!-- content -->
+        <p>Create your website for Yours and</p>
+        <p>stand out from others</p>
+       </div>
+       <a class="nonblock nontext Button rounded-corners clearfix colelem" id="buttonu5451" href="http://themeforest.net/user/muse-master/portfolio?ref=Muse-Master"><!-- container box --><div class="clearfix grpelem" id="u5452-4"><!-- content --><p>PURCHASE NOW</p></div></a>
+      </div>
+     </div>
+     <div class="clearfix grpelem" id="u5448-7"><!-- content -->
+      <p>&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lacinia pretium velit, vitae volutpat dolor imperdiet euismod. Donec id tempor sem.</p>
+      <p>&nbsp;</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam lacinia pretium velit, vitae volutpat dolor imperdiet euismod. Donec id tempor sem.</p>
+     </div>
+    </div>
+    <div class="PamphletWidget clearfix colelem" id="pamphletu5453"><!-- none box -->
+     <div class="ThumbGroup clearfix grpelem" id="u5456"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u5462"><!-- group -->
+        <div class="rounded-corners clearfix grpelem" id="u5463"><!-- group -->
+         <div class="clearfix grpelem" id="u5466-4"><!-- content -->
+          <p>1</p>
+         </div>
+        </div>
+        <div class="clearfix grpelem" id="pu5464-4"><!-- column -->
+         <div class="clearfix colelem" id="u5464-4"><!-- content -->
+          <p>Buy Yours</p>
+         </div>
+         <div class="clearfix colelem" id="u5465-4"><!-- content -->
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed magna vel velit dignissim luctus eu in urna. Dapibus egestas turpis.</p>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u5467"><!-- group -->
+        <div class="rounded-corners clearfix grpelem" id="u5471"><!-- group -->
+         <div class="clearfix grpelem" id="u5468-4"><!-- content -->
+          <p>2</p>
+         </div>
+        </div>
+        <div class="clearfix grpelem" id="pu5470-4"><!-- column -->
+         <div class="clearfix colelem" id="u5470-4"><!-- content -->
+          <p>Drag &amp; Drop Builder</p>
+         </div>
+         <div class="clearfix colelem" id="u5469-4"><!-- content -->
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed magna vel velit dignissim luctus eu in urna. Dapibus egestas turpis.</p>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u5457"><!-- group -->
+        <div class="rounded-corners clearfix grpelem" id="u5460"><!-- group -->
+         <div class="clearfix grpelem" id="u5458-4"><!-- content -->
+          <p>3</p>
+         </div>
+        </div>
+        <div class="clearfix grpelem" id="pu5459-4"><!-- column -->
+         <div class="clearfix colelem" id="u5459-4"><!-- content -->
+          <p>Enjoy</p>
+         </div>
+         <div class="clearfix colelem" id="u5461-4"><!-- content -->
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed magna vel velit dignissim luctus eu in urna. Dapibus egestas turpis.</p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u5473popup">
+      <div class="ContainerGroup clearfix" id="u5473"><!-- stack box -->
+       <div class="Container museBGSize grpelem" id="u5476"><!-- simple frame --></div>
+       <div class="Container invi museBGSize grpelem" id="u5474"><!-- simple frame --></div>
+       <div class="Container invi museBGSize grpelem" id="u5475"><!-- simple frame --></div>
+      </div>
+     </div>
+    </div>
+    <a class="anchor_item colelem" id="services"></a>
+    <div class="browser_width colelem" id="u5477-bw">
+     <div class="clearfix" id="u5477"><!-- column -->
+      <div class="museBGSize colelem" id="u5478"><!-- simple frame --></div>
+      <div class="clearfix colelem" id="pu5479-4"><!-- group -->
+       <img class="grpelem" id="u5479-4" alt="" width="35" height="46" src="../images/u5479-4.png"/><!-- rasterized frame -->
+       <div class="clearfix grpelem" id="u5485-4"><!-- content -->
+        <p>Development</p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u5482-4"><!-- content -->
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed magna vel velit dignissim luctus eu in urna. Dapibus egestas turpis. Praesent faucibus nisl sit amet nulla sollicitudin. Integer at tellus ut urna dapibus vestibulum. Morbi euismod sed nulla nec consectetur.</p>
+      </div>
+      <div class="clearfix colelem" id="pu5480-4"><!-- group -->
+       <img class="grpelem" id="u5480-4" alt="" width="35" height="46" src="../images/u5480-4.png"/><!-- rasterized frame -->
+       <div class="clearfix grpelem" id="u5486-4"><!-- content -->
+        <p>Premium Features</p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u5483-4"><!-- content -->
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed magna vel velit dignissim luctus eu in urna. Dapibus egestas turpis. Praesent faucibus nisl sit amet nulla sollicitudin. Integer at tellus ut urna dapibus vestibulum. Morbi euismod sed nulla nec consectetur.</p>
+      </div>
+      <div class="clearfix colelem" id="pu5481-4"><!-- group -->
+       <img class="grpelem" id="u5481-4" alt="" width="35" height="46" src="../images/u5481-4.png"/><!-- rasterized frame -->
+       <div class="clearfix grpelem" id="u5487-4"><!-- content -->
+        <p>Customer Support</p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="u5484-4"><!-- content -->
+       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer sed magna vel velit dignissim luctus eu in urna. Dapibus egestas turpis. Praesent faucibus nisl sit amet nulla sollicitudin. Integer at tellus ut urna dapibus vestibulum. Morbi euismod sed nulla nec consectetur.</p>
+      </div>
+      <a class="anchor_item colelem" id="team"></a>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u5491-4"><!-- content -->
+     <p>Meet Our Team</p>
+    </div>
+    <div class="clearfix colelem" id="u5490-4"><!-- content -->
+     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget turpis pulvinar, tempor odio sed, adipiscing dolor. Donec nisi velit, malesuada id dolor non, elementum auctor arcu. Cras consectetur sapien et purus posuere, ac amel hendrerit nunc luctus. Etiam adipiscing et sapien a accumsan. Integer gravida.</p>
+    </div>
+    <div class="PamphletWidget clearfix colelem" id="pamphletu5492"><!-- none box -->
+     <div class="ThumbGroup clearfix grpelem" id="u5494"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u5495"><!-- column -->
+        <div class="museBGSize colelem" id="u5497"><!-- simple frame --></div>
+        <div class="rounded-corners clearfix colelem" id="u5496-4"><!-- content -->
+         <p>JESSICA BAKE</p>
+        </div>
+        <div class="clearfix colelem" id="u5498-4"><!-- content -->
+         <p>CONSULTANT</p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u5499popup">
+      <div class="ContainerGroup clearfix" id="u5499"><!-- stack box -->
+       <div class="Container invi rgba-background clearfix grpelem" id="u5500"><!-- group -->
+        <img class="grpelem" id="u5503" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+        <img class="grpelem" id="u5502" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+        <img class="grpelem" id="u5501" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="PamphletWidget clearfix colelem" id="pamphletu5506"><!-- none box -->
+     <div class="ThumbGroup clearfix grpelem" id="u5507"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u5508"><!-- column -->
+        <div class="museBGSize colelem" id="u5509"><!-- simple frame --></div>
+        <div class="rounded-corners clearfix colelem" id="u5510-4"><!-- content -->
+         <p>CHRISTIAN CILINIS</p>
+        </div>
+        <div class="clearfix colelem" id="u5511-4"><!-- content -->
+         <p>GRAPHIC DESIGNER</p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u5512popup">
+      <div class="ContainerGroup clearfix" id="u5512"><!-- stack box -->
+       <div class="Container invi rgba-background clearfix grpelem" id="u5513"><!-- group -->
+        <img class="grpelem" id="u5515" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+        <img class="grpelem" id="u5516" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+        <img class="grpelem" id="u5514" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="PamphletWidget clearfix colelem" id="pamphletu5520"><!-- none box -->
+     <div class="ThumbGroup clearfix grpelem" id="u5522"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="Thumb popup_element clearfix" id="u5523"><!-- column -->
+        <div class="museBGSize colelem" id="u5524"><!-- simple frame --></div>
+        <div class="rounded-corners clearfix colelem" id="u5525-4"><!-- content -->
+         <p>BRITNEY DOE</p>
+        </div>
+        <div class="clearfix colelem" id="u5526-4"><!-- content -->
+         <p>WEB DESIGNER</p>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u5527popup">
+      <div class="ContainerGroup clearfix" id="u5527"><!-- stack box -->
+       <div class="Container invi rgba-background clearfix grpelem" id="u5528"><!-- group -->
+        <img class="grpelem" id="u5530" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+        <img class="grpelem" id="u5529" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+        <img class="grpelem" id="u5531" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="browser_width colelem" id="u5534-bw">
+     <div class="clearfix" id="u5534"><!-- column -->
+      <div class="clearfix colelem" id="pu5535-4"><!-- group -->
+       <div class="clearfix grpelem" id="u5535-4"><!-- content -->
+        <p>1218</p>
+       </div>
+       <div class="clearfix grpelem" id="u5536-4"><!-- content -->
+        <p>248</p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="pu5539-4"><!-- group -->
+       <div class="clearfix grpelem" id="u5539-4"><!-- content -->
+        <p>OUR CUSTOMERS</p>
+       </div>
+       <div class="clearfix grpelem" id="u5540-4"><!-- content -->
+        <p>CUPS OF COFFEE</p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="pu5537-4"><!-- group -->
+       <div class="clearfix grpelem" id="u5537-4"><!-- content -->
+        <p>418</p>
+       </div>
+       <div class="clearfix grpelem" id="u5538-4"><!-- content -->
+        <p>713</p>
+       </div>
+      </div>
+      <div class="clearfix colelem" id="pu5541-4"><!-- group -->
+       <div class="clearfix grpelem" id="u5541-4"><!-- content -->
+        <p>COMPLETED PROJECTS</p>
+       </div>
+       <div class="clearfix grpelem" id="u5542-4"><!-- content -->
+        <p>SATISFIED COMPANIES</p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="browser_width colelem" id="u5543-bw">
+     <div class="museBGSize clearfix" id="u5543"><!-- column -->
+      <div class="clearfix colelem" id="u5544-6"><!-- content -->
+       <p>„It is literally true that you can succeed best and quickest by</p>
+       <p>helping others to succeed.”</p>
+      </div>
+      <div class="clearfix colelem" id="u5545-4"><!-- content -->
+       <p>NAPOLEON HILL</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u5546"><!-- group -->
+     <div class="clearfix grpelem" id="u5550-4"><!-- content -->
+      <p>Aliquam erat volutpat. Etiam tortor sapien, elementum quis semper eu, convallis eget justo. Nulla facilisi. Curabitur cursus vestibulum turpis eget sagittis. Phasellus tempus semper tellus, sed ullamcorper libero sodales.</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu5562"><!-- group -->
+     <div class="rounded-corners grpelem" id="u5562"><!-- simple frame --></div>
+     <div class="clearfix grpelem" id="pu5554-4"><!-- column -->
+      <div class="clearfix colelem" id="u5554-4"><!-- content -->
+       <p>Mark Doe</p>
+      </div>
+      <div class="clearfix colelem" id="u5558-4"><!-- content -->
+       <p>Customer Yours</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u5548"><!-- group -->
+     <div class="clearfix grpelem" id="u5552-4"><!-- content -->
+      <p>Curabitur cursus vestibulum turpis eget sagittis. Phasellus tempus semper tellus, sed ullamcorper libero sodales.&nbsp; Aliquam erat volutpat. Etiam tortor sapien, elementum quis semper eu, convallis eget justo. Nulla facilisi.</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu5564"><!-- group -->
+     <div class="rounded-corners grpelem" id="u5564"><!-- simple frame --></div>
+     <div class="clearfix grpelem" id="pu5556-4"><!-- column -->
+      <div class="clearfix colelem" id="u5556-4"><!-- content -->
+       <p>Jessica Blake</p>
+      </div>
+      <div class="clearfix colelem" id="u5560-4"><!-- content -->
+       <p>Customer Yours</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u5547"><!-- group -->
+     <div class="clearfix grpelem" id="u5551-6"><!-- content -->
+      <p>Phasellus tempus semper tellus, sed ullamcorper libero sodales.</p>
+      <p>Aliquam erat volutpat. Etiam tortor sapien, elementum quis semper eu, convallis eget justo. Nulla facilisi. Curabitur cursus vestibulum turpis eget sagittis.</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu5563"><!-- group -->
+     <div class="rounded-corners grpelem" id="u5563"><!-- simple frame --></div>
+     <div class="clearfix grpelem" id="pu5555-4"><!-- column -->
+      <div class="clearfix colelem" id="u5555-4"><!-- content -->
+       <p>Christian Cilinis</p>
+      </div>
+      <div class="clearfix colelem" id="u5559-4"><!-- content -->
+       <p>Customer Yours</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u5549"><!-- group -->
+     <div class="clearfix grpelem" id="u5553-4"><!-- content -->
+      <p>Etiam tortor sapien, elementum quis semper eu, convallis eget justo. Nulla facilisi. Curabitur cursus vestibulum turpis eget sagittis. Phasellus tempus semper tellus, sed ullamcorper libero sodales.&nbsp; Aliquam erat volutpat.</p>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu5565"><!-- group -->
+     <div class="rounded-corners grpelem" id="u5565"><!-- simple frame --></div>
+     <div class="clearfix grpelem" id="pu5557-4"><!-- column -->
+      <div class="clearfix colelem" id="u5557-4"><!-- content -->
+       <p>Britney Doe</p>
+      </div>
+      <div class="clearfix colelem" id="u5561-4"><!-- content -->
+       <p>Customer Yours</p>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu5566"><!-- group -->
+     <div class="browser_width grpelem" id="u5566-bw">
+      <div class="museBGSize clearfix" id="u5566"><!-- group -->
+       <a class="anchor_item grpelem" id="portfolio"></a>
+       <img class="grpelem" id="u5567-4" alt="" width="170" height="73" src="../images/u5567-4.png"/><!-- rasterized frame -->
+      </div>
+     </div>
+     <div class="PamphletWidget clearfix grpelem" id="pamphletu5568"><!-- none box -->
+      <div class="ThumbGroup clearfix grpelem" id="u5569"><!-- none box -->
+       <div class="popup_anchor">
+        <div class="Thumb popup_element rounded-corners" id="u5571"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor">
+        <div class="Thumb popup_element rounded-corners" id="u5572"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor">
+        <div class="Thumb popup_element rounded-corners" id="u5570"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor">
+        <div class="Thumb popup_element rounded-corners" id="u5573"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u5575popup">
+       <div class="ContainerGroup clearfix" id="u5575"><!-- stack box -->
+        <div class="Container clearfix grpelem" id="u5576"><!-- column -->
+         <div class="clearfix colelem" id="u5578-6"><!-- content -->
+          <p>Check out our new template : <a class="nonblock" href="http://t.co/OcBHvV7hio" target="_blank"><span id="u5578-2">http://t.co/OcBHvV7hio</span></a></p>
+         </div>
+         <div class="clearfix colelem" id="u5577-4"><!-- content -->
+          <p>5 hours ago</p>
+         </div>
+        </div>
+        <div class="Container invi clearfix grpelem" id="u5579"><!-- column -->
+         <div class="clearfix colelem" id="u5581-4"><!-- content -->
+          <p>New magazine/blog theme soon on themeforest!</p>
+         </div>
+         <div class="clearfix colelem" id="u5580-4"><!-- content -->
+          <p>5 hours ago</p>
+         </div>
+        </div>
+        <div class="Container invi clearfix grpelem" id="u5585"><!-- column -->
+         <div class="clearfix colelem" id="u5587-6"><!-- content -->
+          <p>Hey. check our products&nbsp; : <a class="nonblock" href="http://t.co/OcBHvV7hio" target="_blank"><span id="u5587-2">http://t.co/OcBHvV7hio</span></a></p>
+         </div>
+         <div class="clearfix colelem" id="u5586-4"><!-- content -->
+          <p>5 hours ago</p>
+         </div>
+        </div>
+        <div class="Container invi clearfix grpelem" id="u5582"><!-- column -->
+         <div class="clearfix colelem" id="u5584-4"><!-- content -->
+          <p>Inesta Theme in muse version! Clean design and easy to use.</p>
+         </div>
+         <div class="clearfix colelem" id="u5583-4"><!-- content -->
+          <p>5 hours ago</p>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u5591-4"><!-- content -->
+     <p><span id="u5591">Примеры работ</span></p>
+	<hr align="center" width="250" color="Green" />
+    </div>
+    <div class="clearfix colelem" id="u5592-6"><!-- content -->
+     <p>Автомобили которые<br> были у нас в работе</p>
+     <hr align="center" width="250" color="Green" />
+    </div>
+    <div class="PamphletWidget clearfix colelem" id="pamphletu5593"><!-- none box -->
+     <div class="ThumbGroup clearfix grpelem" id="u5594"><!-- none box -->
+      <div class="popup_anchor">
+       <div class="popup_element Thumb clearfix" id="pu5597"><!-- group -->
+        <div class="popup_anchor">
+         
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor">
+       <div class="popup_element Thumb clearfix" id="pu5599"><!-- group -->
+        <div class="popup_anchor">
+         
+        </div>
+       </div>
+      </div>
+      <div class="popup_anchor">
+       <div class="popup_element Thumb clearfix" id="pu5595"><!-- group -->
+        <div class="popup_anchor">
+         
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="popup_anchor" id="u5602popup">
+      <div class="ContainerGroup clearfix" id="u5602"><!-- stack box -->
+       <div class="Container clearfix grpelem" id="u5603"><!-- column -->
+        <div class="position_content" id="u5603_position_content">
+         <a class="nonblock nontext rounded-corners colelem" id="u5749" href="works-1.html"><!-- simple frame --></a>
+ 	 <a class="nonblock nontext rounded-corners colelem" id="u5752" href="works-2.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5751" href="works-3.html"><!-- simple frame --></a>
+         
+        </div>
+       </div>
+       <div class="Container invi clearfix grpelem" id="u5616"><!-- column -->
+        <div class="position_content" id="u5616_position_content">
+         <a class="nonblock nontext rounded-corners colelem" id="u5737" href="works-1.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5740" href="works-2.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5739" href="works-3.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5748" href="works-4.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5741" href="works-5.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5747" href="works-6.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5742" href="works-7.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5738" href="works-8.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5743" href="works-9.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5744" href="works-10.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5745" href="works-11.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5746" href="works-12.html"><!-- simple frame --></a>
+        </div>
+       </div>
+       <div class="Container invi clearfix grpelem" id="u5629"><!-- column -->
+        <div class="position_content" id="u5629_position_content">
+         <a class="nonblock nontext rounded-corners colelem" id="u5641" href="works-1.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5631" href="works-2.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5630" href="works-3.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5638" href="works-4.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5640" href="works-5.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5639" href="works-6.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5632" href="works-7.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5637" href="works-8.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5636" href="works-9.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5635" href="works-10.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5634" href="works-11.html"><!-- simple frame --></a>
+         <a class="nonblock nontext rounded-corners colelem" id="u5633" href="works-12.html"><!-- simple frame --></a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="pu5668"><!-- group -->
+     <div class="browser_width grpelem" id="u5668-bw">
+      <div class="museBGSize clearfix" id="u5668"><!-- group -->
+       <a class="anchor_item grpelem" id="contact"></a>
+      </div>
+     </div>
+     <div class="PamphletWidget clearfix grpelem" id="pamphletu5669"><!-- none box -->
+      <div class="ThumbGroup clearfix grpelem" id="u5671"><!-- none box -->
+       <div class="popup_anchor">
+        <div class="Thumb popup_element rounded-corners" id="u5673"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor">
+        <div class="Thumb popup_element rounded-corners" id="u5672"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor">
+        <div class="Thumb popup_element rounded-corners" id="u5688"><!-- simple frame --></div>
+       </div>
+       <div class="popup_anchor">
+        <div class="Thumb popup_element rounded-corners" id="u5694"><!-- simple frame --></div>
+       </div>
+      </div>
+      <div class="popup_anchor" id="u5676popup">
+       <div class="ContainerGroup clearfix" id="u5676"><!-- stack box -->
+        <div class="Container clearfix grpelem" id="u5677"><!-- group -->
+         <div class="grpelem" id="u5678"><!-- simple frame --></div>
+         <div class="grpelem" id="u5681"><!-- simple frame --></div>
+        </div>
+        <div class="Container invi clearfix grpelem" id="u5682"><!-- group -->
+         <div class="grpelem" id="u5683"><!-- simple frame --></div>
+         <div class="grpelem" id="u5685"><!-- simple frame --></div>
+        </div>
+        <div class="Container invi clearfix grpelem" id="u5689"><!-- group -->
+         <div class="grpelem" id="u5696"><!-- simple frame --></div>
+         <div class="grpelem" id="u5697"><!-- simple frame --></div>
+        </div>
+        <div class="Container invi clearfix grpelem" id="u5695"><!-- group -->
+         <div class="grpelem" id="u5698"><!-- simple frame --></div>
+         <div class="grpelem" id="u5699"><!-- simple frame --></div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="clearfix colelem" id="u5702-4"><!-- content -->
+     <p><span id="u5702">Контакты</span></p>
+    </div>
+    <div class="clearfix colelem" id="u5703-6"><!-- content -->
+     <p>Позвоните по указанному телефону <br>и получите больше информации.</p>
+     <p>Действует гибкая система скидок.</p>
+    </div>
+    <div class="browser_width colelem" id="u5701-bw">
+     <div class="clearfix" id="u5701"><!-- column -->
+      <div class="clearfix colelem" id="u5704-4"><!-- content -->
+       <p>ТЕЛЕФОН</p>
+      </div>
+      <div class="clearfix colelem" id="u5707-4"><!-- content -->
+       <p>071-428-03-04</p>
+      </div>
+      <div class="clearfix colelem" id="u5706-4"><!-- content -->
+       <p>СОЦСЕТИ</p>
+      </div>
+      <a class="nonblock nontext clearfix colelem" id="u5709-4" href="https://vk.com/club125540245" style="color:Red"<!-- content --><p>Вконтакте</p></a>
+      <div class="clearfix colelem" id="u5705-4"><!-- content -->
+       <p>АДРЕС</p>
+      </div>
+      <div class="clearfix colelem" id="u5708-4"><!-- content -->
+       <p>Донецк пр.Мира 13-Б Автосалон "Автомир"</p>
+      </div>
+     </div>
+    </div>
+    <form class="form-grp clearfix colelem" id="widgetu5710" method="post" enctype="multipart/form-data" action="../scripts/form-u5710.php"><!-- none box -->
+     <div class="fld-grp clearfix grpelem" id="widgetu5727" data-required="true"><!-- none box -->
+      <span class="fld-label actAsDiv clearfix grpelem" id="u5729-4"><!-- content --><label class="actAsPara" id="u5729-2" for="widgetu5727_input">Name:</label></span>
+      <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u5728-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu5727_input" name="custom_U5727" tabindex="2"/><label class="wrapped-input fld-prompt" id="widgetu5727_prompt" for="widgetu5727_input"><span class="actAsPara">Введите Имя</span></label></span>
+     </div>
+     <div class="fld-grp clearfix grpelem" id="widgetu5716" data-required="true" data-type="email"><!-- none box -->
+      <span class="fld-label actAsDiv clearfix grpelem" id="u5718-4"><!-- content --><label class="actAsPara" id="u5718-2" for="widgetu5716_input">Email:</label></span>
+      <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u5717-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu5716_input" name="Email" tabindex="3"/><label class="wrapped-input fld-prompt" id="widgetu5716_prompt" for="widgetu5716_input"><span class="actAsPara">Введите Email</span></label></span>
+     </div>
+     <div class="clearfix grpelem" id="u5721-4"><!-- content -->
+      <p>Submitting Form...</p>
+     </div>
+     <div class="clearfix grpelem" id="u5720-4"><!-- content -->
+      <p>The server encountered an error.</p>
+     </div>
+     <div class="clearfix grpelem" id="u5715-4"><!-- content -->
+      <p>Form received.</p>
+     </div>
+     <input class="submit-btn NoWrap grpelem" id="u5722-17" type="submit" value="" tabindex="5"/><!-- state-based BG images -->
+     <div class="fld-grp clearfix grpelem" id="widgetu5711" data-required="false"><!-- none box -->
+      <span class="fld-label actAsDiv clearfix grpelem" id="u5713-4"><!-- content --><label class="actAsPara" id="u5713-2" for="widgetu5711_input">Message:</label></span>
+      <span class="fld-textarea actAsDiv clearfix grpelem" id="u5712-4"><!-- content --><textarea class="wrapped-input" id="widgetu5711_input" name="custom_U5711" tabindex="1"></textarea><label class="wrapped-input fld-prompt" id="widgetu5711_prompt" for="widgetu5711_input"><span class="actAsPara">Введите сообщение</span></label></span>
+     </div>
+     <div class="fld-grp clearfix grpelem" id="widgetu5723" data-required="true"><!-- none box -->
+      <span class="fld-label actAsDiv clearfix grpelem" id="u5726-4"><!-- content --><label class="actAsPara" id="u5726-2" for="widgetu5723_input">Website:</label></span>
+      <span class="fld-input NoWrap actAsDiv clearfix grpelem" id="u5724-4"><!-- content --><input class="wrapped-input" type="text" spellcheck="false" id="widgetu5723_input" name="custom_U5723" tabindex="4"/><label class="wrapped-input fld-prompt" id="widgetu5723_prompt" for="widgetu5723_input"><span class="actAsPara">Введите Вэб-сайт</span></label></span>
+     </div>
+    </form>
+    <div class="browser_width colelem" id="u5731-bw">
+     <div id="u5731"><!-- custom html -->
+      
+<iframe class="actAsDiv" width="100%" height="240" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=Envato&amp;aq=0&amp;ie=UTF8&amp;t=p&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe>
+
+</div>
+    </div>
+    <div class="clearfix colelem" id="pu5700"><!-- group -->
+     <div class="browser_width grpelem" id="u5700-bw">
+      <div class="clearfix" id="u5700"><!-- group -->
+       <div class="clearfix grpelem" id="u5733-4"><!-- content -->
+        <p>&nbsp;@2015 YOURS. ALL RIGHT RESERVED.</p>
+       </div>
+      </div>
+     </div>
+     <img class="grpelem" id="u5734" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+     <img class="grpelem" id="u5735" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+     <img class="grpelem" id="u5736" alt="" src="../images/blank.gif"/><!-- state-based BG images -->
+    </div>
+    <div class="verticalspacer"></div>
+   </div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="../images/u5262-r.png" alt=""/>
+   <img class="preload" src="../images/u5262-a.png" alt=""/>
+   <img class="preload" src="../images/u5429-r.png" alt=""/>
+   <img class="preload" src="../images/u5435-r.png" alt=""/>
+   <img class="preload" src="../images/u5437-r.png" alt=""/>
+   <img class="preload" src="../images/u5445-r.png" alt=""/>
+   <img class="preload" src="../images/u5503-r.png" alt=""/>
+   <img class="preload" src="../images/u5502-r.png" alt=""/>
+   <img class="preload" src="../images/u5501-r.png" alt=""/>
+   <img class="preload" src="../images/u5515-r.png" alt=""/>
+   <img class="preload" src="../images/u5516-r.png" alt=""/>
+   <img class="preload" src="../images/u5514-r.png" alt=""/>
+   <img class="preload" src="../images/u5530-r.png" alt=""/>
+   <img class="preload" src="../images/u5529-r.png" alt=""/>
+   <img class="preload" src="../images/u5531-r.png" alt=""/>
+   <img class="preload" src="../images/u5722-17-r.png" alt=""/>
+   <img class="preload" src="../images/u5722-17-m.png" alt=""/>
+   <img class="preload" src="../images/u5722-17-fs.png" alt=""/>
+   <img class="preload" src="../images/u5734-r.png" alt=""/>
+   <img class="preload" src="../images/u5735-r.png" alt=""/>
+   <img class="preload" src="../images/u5736-r.png" alt=""/>
+  </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="../scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script src="../scripts/museutils.js?334180058" type="text/javascript"></script>
+  <script src="../scripts/jquery.scrolleffects.js?3865564493" type="text/javascript"></script>
+  <script src="../scripts/jquery.watch.js?293013060" type="text/javascript"></script>
+  <script src="../scripts/jquery.musemenu.js?315128729" type="text/javascript"></script>
+  <script src="../scripts/webpro.js?7309900" type="text/javascript"></script>
+  <script src="../scripts/musewpslideshow.js?4149944274" type="text/javascript"></script>
+  <script src="../scripts/jquery.museoverlay.js?4282111687" type="text/javascript"></script>
+  <script src="../scripts/touchswipe.js?526709374" type="text/javascript"></script>
+  <script src="../scripts/jquery.musepolyfill.bgsize.js?35732776" type="text/javascript"></script>
+  <!-- Other scripts -->
+  <script type="text/javascript">
+   $(document).ready(function() { try {
+(function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
+for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
+Muse.Utils.prepHyperlinks(true);/* body */
+$('#u5362-bw').registerPositionScrollEffect([{"speed":[null,1],"in":[-Infinity,0]},{"speed":[null,0],"in":[0,Infinity]}]);/* scroll effect */
+Muse.Utils.resizeHeight()/* resize height */
+$('#u5406').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
+Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
+Muse.Utils.initWidget('#pamphletu5188', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'loose',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:300,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu5188 */
+$('#pamphletu5188').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
+Muse.Utils.initWidget('#slideshowu5269', function(elem) { $(elem).data('widget', new WebPro.Widget.ContentSlideShow(elem, {heroFitting:'fillFrameProportionally',autoPlay:true,displayInterval:3500,slideLinkStopsSlideShow:false,transitionStyle:'fading',lightboxEnabled_runtime:false,shuffle:false,transitionDuration:500,enableSwipe:true,elastic:'fullWidth',resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false})); });/* #slideshowu5269 */
+Muse.Utils.initWidget('#pamphletu5453', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu5453 */
+Muse.Utils.initWidget('#pamphletu5492', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu5492 */
+Muse.Utils.initWidget('#pamphletu5506', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu5506 */
+Muse.Utils.initWidget('#pamphletu5520', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'mouseout_both',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu5520 */
+Muse.Utils.initWidget('#pamphletu5568', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:3000,transitionStyle:'horizontal',transitionDuration:400,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu5568 */
+Muse.Utils.initWidget('#pamphletu5593', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'',autoPlay:false,displayInterval:3000,transitionStyle:'fading',transitionDuration:500,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu5593 */
+Muse.Utils.initWidget('#pamphletu5669', function(elem) { new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:true,displayInterval:3000,transitionStyle:'horizontal',transitionDuration:400,hideAllContentsFirst:false,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false}); });/* #pamphletu5669 */
+Muse.Utils.initWidget('#widgetu5710', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu5710 */
+Muse.Utils.fullPage('#page');/* 100% height page */
+Muse.Utils.showWidgetsWhenReady();/* body */
+Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
+} catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
+</script>
+   </body>
+</html>
