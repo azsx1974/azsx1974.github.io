@@ -1086,7 +1086,32 @@ p {
 	position: relative;
 }
 
+#u5413-60
+{
+	z-index: 105;
+	width: 340px;
+	min-height: 33px;
+	background-color: transparent;
+	line-height: 31px;
+	color: #EEEEEE;
+	font-size: 32px;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 400;
+	margin-left: 20px;
+	margin-top: 87px;
+	position: relative;
+}
+
+
+
 #u5413-3
+{
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+}
+
+#u5413-30
 {
 	font-family: raleway, sans-serif;
 	font-weight: 300;
@@ -1108,6 +1133,24 @@ p {
 	margin-top: 35px;
 	position: relative;
 }
+
+#u5414-40
+{
+	z-index: 111;
+	width: 340px;
+	min-height: 89px;
+	background-color: transparent;
+	line-height: 22px;
+	color: #B2B2B2;
+	font-size: 16px;
+	text-align: center;
+	font-family: raleway, sans-serif;
+	font-weight: 300;
+	margin-left: 20px;
+	margin-top: 35px;
+	position: relative;
+}
+
 
 #u5421
 {
@@ -5046,7 +5089,7 @@ p {
 	position: relative;
 }
 
-#u5302,#u5310,#u5299,#u5413,#u5591,#u5702
+#u5302,#u5310,#u5299,#u5413,#u5591,#u5702,#u54130
 {
 	font-family: raleway, DroidSerif;
 	font-weight: 600;
