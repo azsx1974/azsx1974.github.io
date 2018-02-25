@@ -647,7 +647,7 @@ p {
 	color: #FFFFFF;
 	font-size: 16px;
 	text-align: center;
-	font-family: raleway, sans-serif;
+	font-family: raleway, DroidSerif;
 	font-weight: 400;
 	position: relative;
 	margin-right: -10000px;
@@ -1525,7 +1525,7 @@ p {
 	min-height: 77px;
 	background-color: transparent;
 	line-height: 23px;
-	color: #B2B2B2;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -1541,7 +1541,7 @@ p {
 	min-height: 77px;
 	background-color: transparent;
 	line-height: 23px;
-	color: #111111
+	color: #222222
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
@@ -1558,7 +1558,7 @@ p {
 	min-height: 77px;
 	background-color: transparent;
 	line-height: 23px;
-	color: #B2B2B2;
+	color: #222222;
 	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;

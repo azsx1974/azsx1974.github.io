@@ -1,3 +1,35 @@
+@font-face {
+    font-family: DroidSerif; /* Имя шрифта */
+    src: url(fonts/DroidSerif-Regular.ttf); /* Путь к файлу со шрифтом */
+   }
+   P {
+    font-family: DroidSerif;
+   }
+
+h1 {
+    font-family: DroidSerif;
+   }
+
+h3 {
+    font-family: DroidSerif;
+   }
+
+h2 {
+    font-family: DroidSerif;
+   }
+
+p {
+    font-family: DroidSerif;
+   }
+
+
+
+
+
+
+
+
+
 #pu5597:hover #u5597,#pu5597.PamphletThumbSelected #u5597
 {
 	width: 114px;
@@ -1068,7 +1100,7 @@
 	background-color: transparent;
 	line-height: 22px;
 	color: #B2B2B2;
-	font-size: 14px;
+	font-size: 16px;
 	text-align: center;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
@@ -1114,7 +1146,7 @@
 	background-color: transparent;
 	line-height: 23px;
 	color: #B2B2B2;
-	font-size: 12px;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
@@ -1159,7 +1191,7 @@
 	background-color: transparent;
 	line-height: 23px;
 	color: #B2B2B2;
-	font-size: 12px;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
@@ -1204,7 +1236,7 @@
 	background-color: transparent;
 	line-height: 23px;
 	color: #B2B2B2;
-	font-size: 12px;
+	font-size: 16px;
 	text-align: left;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
@@ -3886,7 +3918,7 @@
 	background-color: transparent;
 	line-height: 22px;
 	color: #B2B2B2;
-	font-size: 14px;
+	font-size: 16px;
 	text-align: center;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
@@ -3900,7 +3932,7 @@
 	z-index: 549;
 	width: 0.01px;
 	height: 29px;
-	padding-bottom: 3014px;
+	padding-bottom: 940px;
 	margin-top: 61px;
 	position: relative;
 }
@@ -5016,7 +5048,7 @@
 
 #u5302,#u5310,#u5299,#u5413,#u5591,#u5702
 {
-	font-family: raleway, sans-serif;
+	font-family: raleway, DroidSerif;
 	font-weight: 600;
 }
 
@@ -5028,7 +5060,7 @@
 	background-color: transparent;
 	line-height: 22px;
 	color: #B2B2B2;
-	font-size: 14px;
+	font-size: 16px;
 	text-align: center;
 	font-family: raleway, sans-serif;
 	font-weight: 300;
@@ -5051,7 +5083,7 @@
 	width: 170px;
 	min-height: 37px;
 	border-style: solid;
-	border-color: #292929;
+	border-color: red;
 	background-color: transparent;
 	line-height: 32px;
 	color: #B2B2B2;
@@ -5071,7 +5103,7 @@
 	background-color: transparent;
 	line-height: 26px;
 	color: #B2B2B2;
-	font-size: 13px;
+	font-size: 16px;
 	text-align: center;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
@@ -5085,7 +5117,7 @@
 	width: 170px;
 	min-height: 37px;
 	border-style: solid;
-	border-color: #292929;
+	border-color: red;
 	background-color: transparent;
 	line-height: 32px;
 	color: #B2B2B2;
@@ -5107,7 +5139,7 @@
 	background-color: transparent;
 	line-height: 26px;
 	color: #B2B2B2;
-	font-size: 13px;
+	font-size: 16px;
 	text-align: center;
 	font-family: raleway, sans-serif;
 	font-weight: 400;
@@ -5122,7 +5154,7 @@
 	width: 170px;
 	min-height: 37px;
 	border-style: solid;
-	border-color: #292929;
+	border-color: red;
 	background-color: transparent;
 	line-height: 32px;
 	color: #B2B2B2;
@@ -5144,7 +5176,7 @@
 	background-color: transparent;
 	line-height: 26px;
 	color: #B2B2B2;
-	font-size: 13px;
+	font-size: 16px;
 	text-align: center;
 	font-family: raleway, sans-serif;
 	font-weight: 400;

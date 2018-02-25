@@ -484,7 +484,7 @@
 	z-index: 3;
 	min-height: 440px;
 	background: transparent url("../../images/012.jpg") no-repeat center center;
-	background-size: cover;
+	background-size: 385 220 ;
 }
 
 #work

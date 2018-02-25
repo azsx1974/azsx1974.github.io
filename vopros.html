@@ -1,6 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 	<head>
+
+		<style>
+   body {
+    background-image: url(images/azsx.jpg); /* Путь к фоновому изображению */
+    background-repeat: repeat-y, repeat-y;
+    background-position: left, right;
+    background-attachment: fixed, fixed;
+   }
+  </style>
+
 		<meta charset="UTF-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
@@ -10,7 +20,7 @@
 		<link href="fonts/font-awesome.min.css" rel="stylesheet" type="text/css">
 		<link href="fonts/novecento-font/novecento-font.css" rel="stylesheet" type="text/css">
 		<!-- Loading main css file -->
-		<link rel="stylesheet" href="style.css">
+		<link rel="stylesheet" href="vopros.css">
 		
 		<!--[if lt IE 9]>
 		<script src="js/ie-support/html5.js"></script>
@@ -25,21 +35,9 @@
 		<div id="site-content">
 			
 			<header class="site-header">
-				<div class="container">
-					<a id="branding" href="index.html">
-						<img src="images/logo.png" alt="Company name" class="logo">
-						<div class="logo-copy">
-							<h1 class="site-title">Автосалон Автомир</h1>
-							<hr align="left" width="150" color="Red" />
-							
-							<h1 class="site-title">Донецк Мира 13-б</h1>
-							<hr align="left" width="150" color="Red" />
-							<small class="site-description2">071-428-03-04</small>
-							
-						</div>
-					</a> <!-- #branding -->
-
-					
+				<div class="container2">
+					<a id="branding" href="index.html">					
+					</a> <!-- #branding -->			
 					<!-- Default snippet for navigation -->
 					<div class="main-navigation">
 						<button type="button" class="menu-toggle"><i class="fa fa-bars"></i></button>
@@ -52,26 +50,32 @@
 							<li class="menu-item"><a href="index.html#contact">КОНТАКТЫ</a></li>
 							<li class="menu-item"><a href="vopros.html">ВОПРОС-ОТВЕТ</a></li>
 						</ul> <!-- .menu -->
-					</div> <!-- .main-navigation -->
+					</div> <!-- .main-navigation
+					<div class="mobile-navigation"></div> -->
 
-					<div class="mobile-navigation"></div>
 				</div>
 			</header>
 
 			<main class="main-content">
 				<div class="page">
 					<div class="container">
-						<h3 class="section-title">Вопрос-ответ</h3> 
-						<h4 class="section-title2">Общие</h4>
-						<div class="row">	
-							<div class="col-md-4">	
-								<h4>Как к нам проехать?</h4>
-								<p>Мы находимся по адресу г.Донецк проспект Мира 13-Б </p>
-								<h4>Как можно оплатить наши услуги?</h4>
+						<header>
+    						<h1>Вопрос-ответ</h1>
+						<h2 align="center">Общие</h2>
+  						<div class="col-md-4">	
+								<h3>Где вы находитесь?</h3>
+								<p>Мы находимся по адресу г.Донецк проспект Мира 13-Б. Но бывают дни когда работаем на выезде.Так что лучше предварительно созвониться.</p>
+								<h3>Как можно оплатить наши услуги?</h3>
 								<p>Оплатить наши услуги можно наличными или банковскими картами.</p>
-								<h4>Вы работаете в выходные дни ?</h4>
-								<p>Да,это все обсуждается при личном общении с клиентом.</p>
+								<h3>Вы работаете в выходные дни ?</h3>
+								<p>Да,такой вариант возможен,это все обсуждается при личном общении с клиентом.</p>
+								<h3>Возможен ли вариант оставить автомобиль и прийти за ним после работы ?</h3>
+								<p>Возможен,но желательно прийти за автомобилем до 18-00.</p>
+								<hr/>
+								<hr/>
 							</div>	
+							</div>
+							</div>
 						</div>
 					</div>
 				</div>
@@ -79,54 +83,60 @@
 			<main class="main-content">
 				<div class="page">
 					<div class="container">
-						<h4 class="section-title2">Вопросы по услугам</h4>
-						<div class="row">	
-							<div class="col-md-4">	
-								<h4>Нужно ли мыть автомобиль перед тонировкой? А зачем его мыть целиком, если тонируют только стекла?</h4>
-								<p>Перед любой услугой автомобиль нужно помыть, пыльный автомобиль хуже чем грязный, так как при снятии защитного слоя с тонирующей пленки она сильно электризуется и
-                                                                соответственно притягивает к себе пыль в следствии чего под пленкой при визуальном осмотре она будет видна.</p>
-								<h4>Сколько по времени занимает тонировка,антигравийная защита?</h4>
-								<p>Тонирование автомобиля занимает 2-3 часа;</p>
-								<p>Антигравийная защита полиуретановой пленкой передней части автомобиля занимает от 3 до 5 часов. Полная оклейка автомобиля данной пленкой занимает 2-3 дня.</p>
-								<h4>Надо ли снимать стекла?</h4>
-								<p>При тонировке пленками – стекла не снимают. В некоторых случаях может понадобиться только демонтаж декоративных элементов, накладок и уплотнений.</h4>
+						<header>
+
+						<br />
+    						
+						<h2 align="center">Вопросы по услугам</h2>
+  						<div class="col-md-4">	
+								<h3>Нужно ли мыть автомобиль перед тонировкой? А зачем его мыть целиком, если тонируют только стекла??</h3>
+								<p>Перед любой услугой автомобиль нужно помыть, пыльный автомобиль хуже чем грязный, так как при снятии защитного слоя с тонирующей пленки она сильно электризуется и соответственно притягивает к себе пыль в следствии чего под пленкой при визуальном осмотре она будет видна.</p>
+								<h3>Сколько по времени занимает тонировка,антигравийная защита?</h3>
+								<p>Тонирование автомобиля занимает 2-3 часа;
+
+Антигравийная защита полиуретановой пленкой передней части автомобиля занимает от 3 до 5 часов. Полная оклейка автомобиля данной пленкой занимает 2-3 дня.
+
+</p>
+								<h3>Надо ли снимать стекла?</h3>
+								<p>При тонировке пленками – стекла не снимают. В некоторых случаях может понадобиться только демонтаж декоративных элементов, накладок и уплотнений.</p>
+								<hr/>
+								<hr/>
+							</div>	
 							</div>
-							<div class="col-md-4">
-								<div class="row">
-									<div class="col-md-6">	
-									</div>
-									<div class="col-md-6">	
-									</div>
-								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</main>
-
-                        <main class="main-content">
+			
+			<main class="main-content">
 				<div class="page">
 					<div class="container">
-						<h4 class="section-title2">Вопросы по гаранитии</h4>
-						<div class="row">	
-							<div class="col-md-4">	
-								<h4>Какой гарантийный срок на наши услуги?</h4>
+						<header>
+						<br />
+    						
+						<h2 align="center">Вопросы по гаранитии</h2>
+  						<div class="col-md-4">	
+								<h3>Какой гарантийный срок на наши услуги?</h3>
 								<p>Тонирование автомобиля - 5-7 лет;</p>
 								<p>Антигравийная защита кузова - 2 года;</p>
-								<h4>Даете ли вы гарантию что виниловую/полиуретановую пленку не оторвет на мойке?</h4>
-								<p>Мы не даем гарантий на отрыв пленки мойками высокого давления. СуществуЕТ определенный, не сложный, регламент мойки автомобиля оклеенного виниловыми и полиуретановыми пленками, который, к сожалению, не соблюдают у нас на мойках - автомобиль оклеенный пленкой НЕЛЬЗЯ мыть в упор (безопасная мойка на расстоянии от 50 см до кузова).
-
-ОБЯЗАТЕЛЬНО ПРЕДУПРЕЖДАЙТЕ ОБ ЭТОМ НА МОЙКАХ!</p>
-								<h4>А можно ли снять старую тонировку не испортив стекло?</h4>
-								<p>Можно – это называется растонированием. При тонировке пленками старую удалить можно всегда. это делается на станции «отмачиванием» специальным реактивом, стекло не повреждается никак и его прозрачность не страдает. </p>
+								<h3>Даете ли вы гарантию что виниловую/полиуретановую пленку не оторвет на мойке?</h3>
+								<p>Мы не даем гарантий на отрыв пленки мойками высокого давления. СуществуЕТ определенный, не сложный, регламент мойки автомобиля оклеенного виниловыми и полиуретановыми пленками, который, к сожалению, не соблюдают у нас на мойках - автомобиль оклеенный пленкой НЕЛЬЗЯ мыть в упор (безопасная мойка на расстоянии от 50 см до кузова). ОБЯЗАТЕЛЬНО ПРЕДУПРЕЖДАЙТЕ ОБ ЭТОМ НА МОЙКАХ!</p>
+								<h3>А можно ли снять старую тонировку не испортив стекло?</h3>
+								<p>Можно – это называется растонированием. При тонировке пленками старую удалить можно всегда. это делается на станции «отмачиванием» специальным реактивом, стекло не повреждается никак и его прозрачность не страдает.</p>
+								
+								<hr/>
+								<hr/>
 							</div>	
+							</div>
+							</div>
 						</div>
 					</div>
 				</div>
 			</main>
 
 			<footer class="site-footer">
-				<div class="container">
+				<div class="container2">
 					<div class="row">
 						<div class="col-md-3">
 							<div class="widget contact-widget">
@@ -134,24 +144,24 @@
 								<div class="contact-info">
 									<address>
 										<img src="images/icon-map-small.png" class="icon">
-										<p><strong>Автосало АВТОМИР</strong> </p>
-										<p><strong>г. Донецк пр.Мира 13-Б</strong> </p>
+										<p style="color:#bbbbbb"><strong>Автосало АВТОМИР</strong> </p>
+										<p style="color:#bbbbbb"><strong>г. Донецк пр.Мира 13-Б</strong> </p>
 									</address>
 									<a href="mailto:contact@companyname.com" class="mail"><img src="images/icon-envelope-small.png" class="icon">razsorpo@gmail.com</a>
 									<!-- <a href="tel:(500)942042259" class="phone"><img src="images/icon-phone-small.png" class="icon">(071)-428-03-04</a> -->
 									<address>
 										<img src="images/icon-map-small.png" class="icon">
-										<p><strong>(071)-428-03-04</strong> </p>
+										<p style="color:#bbbbbb"><strong>(071)-428-03-04</strong> </p>
 					
 									</address>
-								</div>
+									</div>
 							</div>
 						</div>
 						<div class="col-md-3">
 							<div class="widget">
 								<h3 class="widget-title">Соцсети</h3>
-								<p>Группа<a href="https://vk.com/club125540245" style="color:Red"> Вконтакте </a></p>
-									<div class="social-links">
+								<p style="color:#bbbbbb">Группа<a href="https://vk.com/club125540245" style="color:Red"> Вконтакте </a></p>
+								<div class="social-links">
 									<a href="#"><i class="fa fa-facebook"></i></a>
 									<a href="#"><i class="fa fa-twitter"></i></a>
 									<a href="#"><i class="fa fa-google-plus"></i></a>
@@ -163,7 +173,7 @@
 							<div class="widget">
 								<h3 class="widget-title">Новостная рассылка</h3>
 								<form action="#" class="subscribe-form">
-									<input type="email" placeholder="Введите email...">
+									<input type="email" placeholder="Введите email..">
 									<input type="submit" value="Sign up">
 								</form>
 							</div>
@@ -171,7 +181,7 @@
 					</div>
 
 					<div class="colophon">
-						<p>Copyright 2018 Автомир. Сделано в Full. Все права защищены.</p>
+						<p>Copyright 2018 Автомир. Сделано в Full. Все прва защищены.</p>
 					</div>
 				</div>
 			</footer>
