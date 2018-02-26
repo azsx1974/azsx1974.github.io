@@ -481,7 +481,8 @@ a.w3ls_banner_more:hover{
 	text-transform:capitalize;
 	font-size:1.4em;
 	color:#fff;
-	margin:.5em 0 0;
+	margin:.5em 0 1;
+
 }
 .w3_two_grid_right_gridr p{
 	color:#003743;
