@@ -645,6 +645,28 @@ a.w3ls_banner_more:hover{
     border-radius: 50px;
     line-height: 2.6em;
 }
+
+.xwthree_stat_right1 i{
+	font-size: 1.5em;
+    color: #22aa22;
+    width: 50px;
+    height: 37px;
+    xbackground: #fff;
+    border-radius: 50px;
+    line-height: 1.1em;
+}
+
+.xwthree_stat_right1 h4{
+	font-size:1.3em;
+	color:#fff;
+	margin:1em 0;
+}
+.xwthree_stat_right1 p{
+	font-size:3em;
+	color:#fff;
+	font-weight:bold;
+}
+
 .wthree_stat_right1 h4{
 	font-size:1.3em;
 	color:#fff;
