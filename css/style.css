@@ -452,7 +452,7 @@ a.w3ls_banner_more:hover{
 .w3_two_grid_right_grid1{
 	width: 65px;
     height: 65px;
-    border-radius: 50px;
+    border-radius: 5px;
     background:#f62b2b;
     text-align: center;
 }
@@ -1931,7 +1931,7 @@ ul.contact_info li a:hover{
 		height: 55px;
 	}
 	.w3_two_grid_right_grid1 i {
-		line-height: 2.6em;
+		line-height: 0.6em;
 	}
 	.w3_two_grid_right1 {
 		padding-top: 0.88em;
