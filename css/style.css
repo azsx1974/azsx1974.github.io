@@ -405,6 +405,16 @@ a.w3ls_banner_more:hover{
 	padding-bottom:.5em;
 	position:relative;
 }
+
+.xagile_head{
+	font-size:2em;
+	color:#212121;
+	text-transform:capitalize;
+	padding-bottom:.5em;
+	position:relative;
+	right: 2%;
+}
+
 .w3l_banner_bottom_left h3:after,.wthree_stat_left h3:after{
 	content: '';
     width: 23%;
@@ -1931,7 +1941,7 @@ ul.contact_info li a:hover{
 		height: 55px;
 	}
 	.w3_two_grid_right_grid1 i {
-		line-height: 0.6em;
+		line-height: 2.6em;
 	}
 	.w3_two_grid_right1 {
 		padding-top: 0.88em;
