@@ -38,7 +38,7 @@ html, body{
 }
 p,ul li,ol li{
 	margin:0;
-	font-size:14px;
+	font-size:16px;
 }
 h1,h2,h3,h4,h5,h6{
 	font-family: 'DroidSerif', DroidSerif;
@@ -426,7 +426,7 @@ a.w3ls_banner_more:hover{
 }
 .w3l_banner_bottom_left p{
 	margin:2em 0 0;
-	color:#999;
+	color:#222;
 	line-height:2em;
 }
 .w3l_banner_bottom_left p span{
