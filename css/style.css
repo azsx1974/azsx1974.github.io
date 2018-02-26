@@ -627,7 +627,7 @@ a.w3ls_banner_more:hover{
 	line-height:2em;
 }
 .wthree_stat_right ul li{
-	чpadding:2em 1em;
+	xpadding:2em 1em;
 	text-align:center;
 	border:1px solid #fff;
 	display:inline-block;
