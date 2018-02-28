@@ -49,6 +49,7 @@ html, body{
 p,ul li,ol li{
 	margin:0;
 	font-size:16px;
+	
 }
 h1,h2,h3,h4,h5,h6{
 	font-family: 'DroidSerif', DroidSerif;
@@ -502,7 +503,8 @@ a.w3ls_banner_more:hover{
 /*-- news --*/
 .w3_agile_para{
 	margin:.5em 0 0;
-	color:#999;
+	color:#333;
+	margin-top: 2px;
 }
 .agile_head:after, .xagile_head:after{
 	content: '';
@@ -1171,8 +1173,15 @@ button.close {
 	padding-right:2em;
 	color:#f62b2b;
 }
-.about,.portfolio{
+.about{
 	padding-top:5em;
+}
+
+.portfolio{
+	padding-top:2em;
+	text-align: center;
+	background-color: #aaaaaf;
+
 }
 /*-- //about --*/
 /*-- features --*/
