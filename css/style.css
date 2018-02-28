@@ -23,6 +23,16 @@ p {
    }
 
 
+.imageTitle{
+	text-align: center;
+	padding: 2px;
+	height: 25px;
+	position: relative;
+	background-color: rgba(0,0,0,0.8);
+	color: #fff;
+	font-size: 15px;
+}
+
 
 /*--
 Author: W3layouts

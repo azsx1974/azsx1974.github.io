@@ -9,7 +9,8 @@
                 float: "none",
                 width: "100%",
                 height: "100%",
-                margin: "0"
+                margin: "2%"
+
             });
         }
 
@@ -32,14 +33,14 @@
         lImgInnerWrapper_jqp.append(lImage_jqe);
         lImgWrapper_jqp.append(lImgInnerWrapper_jqp);
         lSettingsWrapper_jqe.append(lSettings_jqe);
-        lSettings_jqe.append('&nbsp;').append(lRotateLeft_jqe).append('&nbsp;').append(lRotateRight_jqe).append('&nbsp;');
+        lSettings_jqe.append('&nbsp;');
         lLoadingWrapper_jqe.append(lLoadingText_jqe);
         lWrapper_jqe.append(lImgWrapper_jqp)
                 .append(lSettingsWrapper_jqe)
                 .append(lNavBtnLeft_jqe)
                 .append(lNavBtnRight_jqe)
                 .append(lLoadingWrapper_jqe)
-                .append(lCaption_jqe);
+
 
         $("body").append(lOverlay_jqe);
 
