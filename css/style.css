@@ -504,7 +504,7 @@ a.w3ls_banner_more:hover{
 .w3_agile_para{
 	margin:.5em 0 0;
 	color:#333;
-	margin-top: 2px;
+	
 }
 .agile_head:after, .xagile_head:after{
 	content: '';
@@ -553,6 +553,14 @@ a.w3ls_banner_more:hover{
 .agileits_w3layouts_news_grids,.w3layouts_team_grids,.w3_agile_portfolio_grids,.agileits_w3layouts_contact_grids{
     margin: 3em 0 0;
 }
+
+.xw3_agile_portfolio_grids{
+	margin: 2em 0 0;
+}
+
+
+
+
 .agileits_w3layouts_news_grid p{
 	line-height:2em;
 	color:#999;
