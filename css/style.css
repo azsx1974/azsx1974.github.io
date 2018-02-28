@@ -1100,7 +1100,7 @@ button.close {
     text-transform: capitalize;
 }
 .w3_agile_services_grid p{
-	color:#999;
+	color:#111;
 	line-height:2em;
 }
 .column div {
@@ -1156,7 +1156,7 @@ button.close {
 .wthree_about_grid h3{
 	font-size:2em;
 	color:#212121;
-	text-transform: capitalize;
+	text-transform: none;
 }
 .wthree_about_grid h3 span{
 	color: #fff;
@@ -1167,7 +1167,7 @@ button.close {
 	padding:.2em .5em;
 }
 .wthree_about_grid p{
-	color: #999;
+	color: #111;
     line-height: 2em;
     margin: 2em 0 3em;
 }
@@ -1175,7 +1175,7 @@ button.close {
 	 font-size: 1.8em;
     color: #212121;
     line-height: 1em;
-    text-transform: capitalize;
+    text-transform: none;
 }
 .wthree_about_grid h4 span{
 	display: block;
