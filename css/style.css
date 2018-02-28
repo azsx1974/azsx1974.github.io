@@ -22,11 +22,18 @@ p {
     font-family: DroidSerif;
    }
 
+.primer {
+margin-top:.5em;
+
+}
+
 .primer a {
-color:#444444
+color:blue
+
 }
 .primer a:hover {
-color:#0000ee
+color:red
+
 }
 
 
@@ -1195,7 +1202,7 @@ button.close {
 }
 
 .portfolio{
-	padding-top:5em;
+	padding-top:3em;
 	background-color: #aaaaaf;
 
 }
