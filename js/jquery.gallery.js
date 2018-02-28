@@ -9,7 +9,8 @@
                 float: "none",
                 width: "100%",
                 height: "100%",
-                margin: "2%"
+                margin: "1%" ,
+		right: "0.8%" 
 
             });
         }
