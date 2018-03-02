@@ -1130,6 +1130,15 @@ img {
   height: auto;
 
 }
+
+.2img-responsive {
+padding: 10em 0 0;
+  max-width: 11%;
+  height: auto;
+	top: -95px;
+
+}
+
 .img-rounded {
   border-radius: 6px;
 }
