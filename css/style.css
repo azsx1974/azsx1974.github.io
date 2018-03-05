@@ -1929,7 +1929,7 @@ h2.typoh2{
     margin: 0 0 0.5em;
 }
 .agileits_mail_grid_right_grid p{
-	color:#999;
+	color:#333;
 	line-height:1.8em;
 }
 .agileits_mail_grid_right_grid:nth-child(2){
@@ -1938,7 +1938,7 @@ h2.typoh2{
 ul.contact_info li {
     list-style-type: none;
     margin-bottom: 1em;
-    color: #999;
+    color: #333;
     font-size: 14px;
 }
 ul.contact_info li i {
@@ -1953,7 +1953,7 @@ ul.contact_info li i {
     margin-right: 1em;
 }
 ul.contact_info li a {
-    color: #999;
+    color: #333;
     text-decoration: none;
 }
 ul.contact_info li a:hover{
