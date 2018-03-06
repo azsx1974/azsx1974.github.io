@@ -1147,11 +1147,12 @@ button.close {
     text-align: center;
 }
 .services-bottom h3{
-	font-size: 2.5em;
+	font-size: 0.9em;
     line-height: 1.5em;
-    font-weight: 600;
+    font-weight: 400;
     color: #fff;
-    text-transform: uppercase;
+    text-transform: none;
+    text-align: left;
 }
 
 .2services-bottom h3{
