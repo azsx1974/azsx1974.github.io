@@ -1153,14 +1153,16 @@ button.close {
     color: #fff;
     text-transform: none;
     text-align: left;
+
 }
 
 .2services-bottom h3{
 	font-size: 1.5em;
     line-height: 1.5em;
-    font-weight: 600;
+    font-weight: 400;
     color: #fff;
     text-transform: none;
+	text-align: left;
 }
 
 
