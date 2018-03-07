@@ -1102,7 +1102,7 @@ button.close {
     text-transform: capitalize;
 }
 .w3_agile_services_grid p{
-	color:#ccc;
+	color:red;
 	line-height:1.5em;
         text-align: left;
 }
