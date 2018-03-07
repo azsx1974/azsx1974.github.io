@@ -1146,6 +1146,7 @@ button.close {
     -o-background-size: cover;
     -ms-background-size: cover;
     text-align: center;
+	max-width: 100%;
 }
 .services-bottom h3{
 	font-size: 0.9em;
