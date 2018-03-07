@@ -288,7 +288,77 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		</div>
 	</div>
 <!-- //features -->
-
+<!-- team -->
+	<div class="services">
+		<div class="container">
+			<h3 class="agile_head">Meet Our Team</h3>
+			<p class="w3_agile_para">Suspendisse bibendum ex sit amet tellus finibus</p>
+			<div class="w3layouts_team_grids">	
+				<div class="col-md-3 w3layouts_team_grid">
+					<div class="w3l_team_grd">
+						<img src="images/11.jpg" alt=" " class="img-responsive" />
+						<div class="w3_team_grid">
+							<h4>Miss. Laura Carl</h4>
+							<h5>Ui Developer / PHP</h5>
+							<p>С мужем приехали тонировать Hyundai.Подобрали необходимую пленку.В процессе решили заклеить лобовое.Ребята работали очень быстро и качественно.Сделали достаточно хорошую скидку так что смело могу рекомендовать.</p>
+							<ul class="title">
+								<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+								<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+								<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 w3layouts_team_grid">
+					<div class="w3l_team_grd">
+						<img src="images/12.jpg" alt=" " class="img-responsive" />
+						<div class="w3_team_grid">
+							<h4>Mr. Willium Paul</h4>
+							<h5>Web Designer</h5>
+							<p>Suspendisse bibendum ex sit amet tellus finibus.</p>
+							<ul class="title">
+								<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+								<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+								<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 w3layouts_team_grid">
+					<div class="w3l_team_grd">
+						<img src="images/13.jpg" alt=" " class="img-responsive" />
+						<div class="w3_team_grid">
+							<h4>Mr. James Lii</h4>
+							<h5>PHP Developer</h5>
+							<p>Suspendisse bibendum ex sit amet tellus finibus.</p>
+							<ul class="title">
+								<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+								<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+								<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-3 w3layouts_team_grid">
+					<div class="w3l_team_grd">
+						<img src="images/14.jpg" alt=" " class="img-responsive" />
+						<div class="w3_team_grid">
+							<h4>Mr. Michael Doe</h4>
+							<h5>PHP / Web Designer</h5>
+							<p>Suspendisse bibendum ex sit amet tellus finibus.</p>
+							<ul class="title">
+								<li><a href="#" class="w3_agile_facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+								<li><a href="#" class="agile_twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+								<li><a href="#" class="w3_agile_dribble"><i class="fa fa-dribbble" aria-hidden="true"></i></a></li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+<!-- //team -->
 <!-- stats -->
 	<div class="stats">
 		<div class="wthree_stat">
