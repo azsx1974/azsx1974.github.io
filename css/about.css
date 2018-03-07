@@ -424,7 +424,7 @@ a.w3ls_banner_more:hover{
 /*-- //banner --*/
 /*-- banner-bottom --*/
 .banner-bottom,.news,.services,.services-bottom,.features{
-	padding:5em 0;
+	padding:3em 0;
 }
 .w3l_banner_bottom_left h3,.agile_head,.wthree_stat_left h3{
 	font-size:2em;
@@ -1103,7 +1103,7 @@ button.close {
 }
 .w3_agile_services_grid p{
 	color:#ccc;
-	line-height:2em;
+	line-height:1.5em;
         text-align: left;
 }
 .column div {
