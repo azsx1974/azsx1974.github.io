@@ -1102,8 +1102,9 @@ button.close {
     text-transform: capitalize;
 }
 .w3_agile_services_grid p{
-	color:#111;
+	color:#ccc;
 	line-height:2em;
+        text-align: left;
 }
 .column div {
 	position: relative;
