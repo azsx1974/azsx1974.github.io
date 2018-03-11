@@ -153,6 +153,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 																	
 	});
 </script>
+
 <!-- banner -->	
 
 	<div class="banner1" style= "background:url(images/banner2.jpg) no-repeat 0px 0px;
@@ -165,7 +166,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	                         text-align: center;">		
 		<h3>Цены</h3>
 </div>
-<!-- //banner -->	
+<!-- //banner -->
+
+		
 <!-- services -->
 	<div class="about">
 		<div class="container">
