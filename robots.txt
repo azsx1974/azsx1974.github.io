@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 Host: tonirovka.inf.ua
-Sitemap: /sitemap.xml
+Sitemap: http://www.tonirovka.inf.ua/sitemap.xml
