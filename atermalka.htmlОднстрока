@@ -154,28 +154,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="banner1">
 		<h3>Атермальная тонировка</h3>
 	</div>
-<!-- //banner -->
-		
+<!-- //banner -->		
 <!-- services -->
-	<!--!--=======================     Блок текста        ==================================== -->
-
-  <div class="container">
-    <div clas="row">
-<div class="wthree_about_grid">
-      <div class="sec-title text-center mb50 wow fadeInDown animated animated animated" data-wow-duration="500ms" style="visibility: visible; animation-duration: 500ms; animation-name: fadeInDown;">
-        <br>    
-	<h1>Атермальная тонировка в Донецке</h1>
-            <div class="devider"><i class="fa fa-car fa-lg"></i></div>
-      </div>          
-             
-            <div class="content-prices bob col-md-6 col-xs-12 wow fadeInUp  animated animated" style="visibility: visible; animation-name: fadeInUp;">
-<br>
-							
-<h3><font size="6" color="blue" face="Arial">Атермальная тонировка </font></h3>
-<br>
-<div class="col-md-4 agileinfo_about_grid_right">
-					<img src="images/bmv.png" alt=" " class="img-responsive" />
-				</div>
+	<div class="about">
+		<div class="container">
+			<div class="agileinfo_about_grids">
+				<div class="col-md-8 agileinfo_about_grid_left">	
+					<div class="wthree_about_grid">
+						<!-- <span><font size="8" color="blue" face="Arial">Тонировка </font></span></p> -->
+						<!-- <h3><font size="6" color="blue" face="Arial">Тонировка в </font><span>донецке</span></h3> -->
+						<h3><font size="6" color="blue" face="Arial">Атермальная тонировка </font></h3>
 						<p>Новым веянием в последние несколько лет в области тонирования автомобилей стало оказание новой услуги 
 на рынке - атермальная тонировка. Этот новый вид тонирования стекол автомобиля обладает существенным количеством плюсов, по отношения к обычной тонировке
  стекол, а так же остается более чем актуальным, с учетом ужесточения наказания за тонировку не по госту. 
@@ -200,19 +188,14 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<p>Обычно применяется комплексный подход в области тонирования стекол автомобиля.
  Выполняется тонировка лобового стекла атермальной пленкой, на задние стекла делается обычная тонировка, а на передние водительское и пассажирское стекло  
 делается атермальная тонировка. В зависимости от выбора владельца автоомбиля.</p>
-<br>
 <img style="width: 100%; height: 100%;  margin: -10px 0px;" data-ami-mbgrp="Атермальная тонировка" title="тонировка атермальной
 пленкой стекол автомобиля по госту в Затонируй.ру" alt="тонировка атермальной пленкой стекол автомобиля по госту в Затонируй.ру" src="images/jeka.jpg" align="" height="188" width="250">
 <br>
-						</div>
-						<div class="dob col-md-6 col-xs-12 wow fadeInUp animated animated" style="visibility: visible; animation-name: fadeInUp;">
 <br>
-<h3><font size="6" color="blue" face="Arial">Преимущества</font></h3>
-<br>
-<div class="col-md-4 agileinfo_about_grid_right">
-					<img src="images/bmv2.png" alt=" " class="img-responsive" />
-				</div>
 
+						<br>
+
+						<h3><font size="6" color="blue" face="Arial">Какие плюсы имеет тонирование атермальной пленкой</font></h3>
 						<h3><strong><font size="4" face="Arial">Благодаря своей прозрачности, атермальная тонировка авто не ухудшается обзор из салона автомобиля, особенно в темное и ночное время суток. </strong></font></h3>
 						<br>
 						<h3><strong><font size="4" face="Arial">В яркий и жаркий солнечный день салон вашего автомобиля меньше нагревается. Вам не нужно использовать различные защитные, солнце отражающие экраны в виде различных пенок, которые потом неудобно хранить в салоне автомобиля.</strong></font></h3>
@@ -230,39 +213,38 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						снимается защитный слой и атермальная пленка клеится на стекло. C помощью специального инструмента и фена 
 						пленка разглаживается на стекле и происходит процесс приклеивания.
 <br><br>
-
-
-
-
-<img style="width: 100%; height: 100%;  margin: -15px 0px;" data-ami-mbgrp="Атермальная тонировка" title="тонировка атермальной
+<img style="width: 100%; height: 100%;  margin: -10px 0px;" data-ami-mbgrp="Атермальная тонировка" title="тонировка атермальной
 пленкой стекол автомобиля по госту в Затонируй.ру" alt="тонировка атермальной пленкой стекол автомобиля по госту в Затонируй.ру" src="images/atermal.jpg" align="" height="188" width="250">
 <br>
 						</p>
-<!--<div class="edParagraph" style="text-align:center;"><hr color="red"><img style="margin: 0px;" data-ami-mbgrp="Атермальная тонировка" title="Тонировка стекол автомобиля атермальной пленкой 3М по ГОСТу в Затонируй ру" alt="Тонировка стекол автомобиля атермальной пленкой 3М по ГОСТу в Затонируй ру" src="images/3m.jpg" align="" height="43" width="83">&nbsp;&nbsp; <img style="width: 150px; height:
-50px; margin: 0px;" data-ami-mbgrp="Атермальная тонировка" title="Тонировка стекол автомобиля атермальной пленкой Сантек по ГОСТу в Затонируй ру" alt="Тонировка стекол автомобиля атермальной пленкой Сантек по ГОСТу в Затонируй ру" src="images/suntek.jpg" align="" border="0" height="50" width="150">&nbsp;&nbsp; <img style="width: 87px; height: 50px;" data-ami-mbgrp="Атермальная тонировка" title="" alt="" src="images/llumar-logo.png" align="" height="50" width="87"><hr></div> -->
-<br>
-<!-- <p><strong>Выбирая нас – Вы выбираете качество!</strong></p> -->
-<br>
-	
-    </div>
+<div class="edParagraph" style="text-align:center;"><hr color="red"><img style="margin: 0px;" data-ami-mbgrp="Атермальная тонировка" title="Тонировка стекол автомобиля атермальной пленкой 3М по ГОСТу в Затонируй ру" alt="Тонировка стекол автомобиля атермальной пленкой 3М по ГОСТу в Затонируй ру" src="images/3m.jpg" align="" height="43" width="83">&nbsp;&nbsp; <img style="width: 150px; height:
+50px; margin: 0px;" data-ami-mbgrp="Атермальная тонировка" title="Тонировка стекол автомобиля атермальной пленкой Сантек по ГОСТу в Затонируй ру" alt="Тонировка стекол автомобиля атермальной пленкой Сантек по ГОСТу в Затонируй ру" src="images/suntek.jpg" align="" border="0" height="50" width="150">&nbsp;&nbsp; <img style="width: 87px; height: 50px;" data-ami-mbgrp="Атермальная тонировка" title="" alt="" src="images/llumar-logo.png" align="" height="50" width="87"><br><hr></div>
 
-  </div>
+						<!--<h3><strong><font size="4" face="Arial">Просушка плёнки</strong></font></h3>
+						<h3><strong><font size="4" face="Arial">Окончательная приёмка перед выдачей</strong></font></h3> -->
+						<br>
+					
+						<!-- <h4><span>vestibulum lobortis</span> quis dolor sed dignissim</h4> -->
+						<!-- <ul>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Velit vestibulum ac lobortis quis tincidunt turpis</li>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Curabitur ac sapien quis ligula tempor cursus</li>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Suspendisse potenti urabitur ac sapien quis</li>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Mauris convallis quam a erat rutrum, vehicula</li>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Nam tincidunt turpis velit, nec convallis vestibulum</li>
+						</ul> -->
+					</div>
 
-</div>
-</div>
+				</div>
+				<div class="col-md-4 agileinfo_about_grid_right">
+					<img src="images/bmv.png" alt=" " class="img-responsive" />
+				</div>
+				<div class="clearfix"> </div>
+			</div>
 
-    
-<!--   ====================== / Блок текста        ==================================== -->
-<div class="banner-img">
+		</div>
 
-	<div class="edParagraph" style="text-align:center;"><hr color="red"><img style="margin: 0px;" data-ami-mbgrp="Атермальная тонировка" title="Тонировка стекол автомобиля атермальной пленкой 3М по ГОСТу в Затонируй ру" alt="Тонировка стекол автомобиля атермальной пленкой 3М по ГОСТу в Затонируй ру" src="images/3m.jpg" align="" height="43" width="83">&nbsp;&nbsp; <img style="width: 150px; height:
-50px; margin: 0px;" data-ami-mbgrp="Атермальная тонировка" title="Тонировка стекол автомобиля атермальной пленкой Сантек по ГОСТу в Затонируй ру" alt="Тонировка стекол автомобиля атермальной пленкой Сантек по ГОСТу в Затонируй ру" src="images/suntek.jpg" align="" border="0" height="50" width="150">&nbsp;&nbsp; <img style="width: 87px; height: 50px;" data-ami-mbgrp="Атермальная тонировка" title="" alt="" src="images/llumar-logo.png" align="" height="50" width="87"><hr></div>
-
-</div>	
-
-
-
-                               
+	</div>
+                                 
 <!-- //services -->
 <!-- services-bottom -->
 	<div class="services-bottom">
