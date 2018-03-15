@@ -17,7 +17,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		function hideURLbar(){ window.scrollTo(0,1); } </script>
 <!-- //for-mobile-apps -->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<link href="css/about.css" rel="stylesheet" type="text/css" media="all" />
 <!-- js -->
 <script type="text/javascript" src="js/jquery-2.1.4.min.js"></script>
 <!-- //js -->
@@ -37,12 +37,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 		<div class="container">
 			<div class="agile_header_grid">
 				<div class="w3_agile_logo">
-					<h1><a href="index.html"><span>Автомир</span><font size="4" color="#222222" face="Arial"> г.Донецк пр.Мира 13-Б  </a></font></h1>
+					<h1><a href="index.html"><span>Автомир</span><font size="4" color="#222222" face="Arial"> г.Донецк пр.Мира 13-Б</a></font></h1>
 				</div>
 				<div class="agileits_w3layouts_sign_in">
 					<ul>
-						
-						<li>Тел. <span>(071) 428-03-04 &nbsp  (071) 428-03-04 &nbsp (071) 428-03-04</span></li>
+						<!--<li><a href="#small-dialog" class="play-icon popup-with-zoom-anim">Sign In</a></li>-->
+						<li>Телефон : <span>(071) 428-03-04</span></li>
+						<li><span>(071) 428-03-04</span></li>
 					</ul>
 				</div>
 				<div class="clearfix"> </div>
@@ -62,11 +63,16 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<nav>
 							<ul class="nav navbar-nav">
 								<li><a href="index.html" class="hvr-sweep-to-bottom">главная</a></li>
-								<li class="active"><a href="services.html">Услуги</a></li>
+								<li><a href="services.html" class="hvr-sweep-to-bottom">Услуги</a></li>
 								<li><a href="ceni.html" class="hvr-sweep-to-bottom">цены</a></li>
-								<li><a href="about.html" class="hvr-sweep-to-bottom">о нас</a></li>
-								
-								</li>
+								<li class="active"><a href="about.html">о нас</a></li>
+								<!--<li class="dropdown">
+									<a href="#" class="dropdown-toggle hvr-sweep-to-bottom" data-toggle="dropdown">Short Codes <b class="caret"></b></a>
+									<ul class="dropdown-menu agile_short_dropdown">
+										<li><a href="icons.html">Web Icons</a></li>
+										<li><a href="typography.html">Typography</a></li>
+									</ul>
+								</li> -->
 								<li><a href="portfolio.html" class="hvr-sweep-to-bottom">работы</a></li>
 								<li><a href="contact.html" class="hvr-sweep-to-bottom">контакты</a></li>
 								<li><a href="vopros.html" class="hvr-sweep-to-bottom">вопрос-ответ</a></li>
@@ -151,76 +157,209 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	});
 </script>
 <!-- banner -->	
-	<div class="banner1">
-		<h3>Услуги</h3>
+
+	<div class="banner1">		
+		<h3>О Нас</h3>
+</div>
+<!-- //banner -->			
+<!-- about -->
+	<div class="about">
+		<div class="container">
+			<div class="agileinfo_about_grids">
+				<div class="col-md-8 agileinfo_about_grid_left">	
+					<div class="wthree_about_grid">
+						<h3>Добро пожаловать, любители комфорта!</h3>
+						<p>Затонировать автомобиль очень просто!
+Вы звоните нам по телефону и мы договариваемся с 
+вами на удобное для Вас время. Пригоняете автомобиль 
+к нам и (если спешите) через 2 часа забираете готовый автомобиль.
+Работаем в центре города и на Текстильщике.</p>
+						<!--<h4><span>ПОЧЕМУ МЫ?</span> quis dolor sed dignissim</h4>-->
+						<h4><span>ПОЧЕМУ МЫ?</span></h4>
+						<ul>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Бесплатный выезд мастера установщика</li>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Сохранение дилерской гарантии. </li>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Время тонировочных работ согласовывается заранее.</li>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Гарантия на работы. </li>
+							<li><i class="fa fa-arrow-circle-o-right" aria-hidden="true"></i>Конечная стоимость работ обговаривается до начала обслуживания.</li>
+						</ul>
+					</div>
+				</div>
+				<div class="col-md-4 agileinfo_about_grid_right">
+					<img src="images/1.png" alt=" " class="img-responsive" />
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
 	</div>
-<!-- //banner -->		
+<!-- about -->
+<!-- features -->
+	<div class="features">
+		<div class="container">
+			<h3 class="agile_head agile_head1">Отзывы</h3>
+			<p class="w3_agile_para w3_agile_para1">Что говорят люди....</p>
+			<div class="w3_agileits_features_grids">
+				<div class="col-md-4 w3_agileits_features_grid">
+					
+				
+				</div>
+				
+				</div>
+				
+				</div>
+				
+				</div>
+				
+						
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+	</div>
+<!-- //features -->
+
+<!-- services-bottom -->
+	<div class="services-bottom">
+		
+
 <!-- services -->
 	<div class="services">
 		<div class="container">
 			<div class="w3_agile_services_grids">
 				<div class="col-md-4 w3_agile_services_grid">
-					<div class="agile_services_grid">
-						<div class="hover06 column">
-							<div>
-								<figure><img src="images/4.jpg" alt=" " class="img-responsive" /></figure>
-							</div>
-						</div>
-						
+					<div class="agile_services_grid">				
 					</div>
+
+					<p >Владимир</p>
 					<br>
-					<!-- <h4 style="font-size:22px"><font color="blue">Тонировка</h4> -->
-				<!--	<h4 href="tonirovka.html"style="color:red; text-decoration:none; font-size:20px">Тонировка</h4>
-					<h4 href="evrotonirovka.html"style="color:red; text-decoration:none; font-size:20px">Евротонировка</h4> 
-					<h4 href="atermalka.html"style="color:red; text-decoration:none; font-size:20px">Атермальная пленка</h4> 
-					<h4 href="tonirovka.html"style="color:red; text-decoration:none; font-size:20px">Вопрос-ответ</h4> -->
-					<p class="primer"><a href="tonirovka.html"><b>Тонировка</b></a></p>
-					<p class="primer"><a href="evrotonirovka.html"><b>Евротонировка</b></a></p>
-					<p class="primer"><a href="atermalka.html"><b>Атермальная пленка</b></a></p>
-					<p class="primer"><a href="vopros.html"><b>Вопрос-ответ</b></a></p>
-					
-					<!-- <p>Самый доступный и эффективный вид внешнего 
-			тюнинга. На тонировку стекол мы предоставляем бессрочную гарантию.</p>-->
-					
+					<div class="col-xs-4 agileits_w3layouts_features_gridl">
+					<img src="images/otziv3.jpg" alt=" " class="img-responsive" />
+					</div>
+					<p><dfn>Тонировал Accord хорошо сделали, без вздутий, 
+качественной пленкой.Договорились на 9 утра а в 11 машина уже была готова.
+Вчетвером сделали быстро. Предыдущую машину делал в другом месте и мне не 
+понравилось а тут все было качественно.Рекомендую эту команду</dfn></p>
+				<hr>	
+				</div>
+				<div class="col-md-4 w3_agile_services_grid">
+					<div class="agile_services_grid">	
+					</div>
+
+					<p>Кристина</p>
+					<br>
+					<div class="col-xs-4 agileits_w3layouts_features_gridl">
+					<img src="images/otziv2.jpg" alt=" " class="img-responsive" />
+					</div>
+					<p><dfn>С мужем приехали тонировать автомобиль Hyundai.
+Подобрали необходимую пленку.В процессе решили заклеить лобовое.Ребята работали 
+очень быстро и качественно.Сделали достаточно хорошую скидку так что смело могу 
+рекомендовать.</dfn></p>
+				<hr>
+				</div>
 				</div>
 				<div class="col-md-4 w3_agile_services_grid">
 					<div class="agile_services_grid">
-						<div class="hover06 column">
-							<div>
-								<figure><img src="images/c3.jpg" alt=" " class="img-responsive" /></figure>
-							</div>
-						</div>
 						
 					</div>
-					<!--<h4>Автовинил</h4> -->
-					<p class="primer"><a href="avtovinil.html"><b>Автовинил</b></a></p>
-					<p class="primer"><a href="antigrav.html"><b>Антигравийная защита</b></a></p>
-					<!--<p>Специализированный продукт для оклейки автомобиля.</p>-->
-				</div>
-				<div class="col-md-4 w3_agile_services_grid">
-					<div class="agile_services_grid">
-						<div class="hover06 column">
-							<div>
-								<figure><img src="images/tabs.jpg" alt=" " class="img-responsive" /></figure>
-							</div>
-						</div>
-						
+					<p>Виктория</p>
+					<br>
+					<div class="col-xs-4 agileits_w3layouts_features_gridl">
+					<img src="images/otziv.jpg" alt=" " class="img-responsive" />
 					</div>
-					<p class="primer"><a href="fasad.html"><b>Тонировка зданий</b></a></p>
-					<!--<p>Защита лакокрасочного покрытия автомобиля.</p>-->
+					<p><dfn>Всем довольна.Затонировали мою audi,хоть и было все занято.
+Нашли окно и в 14-00 машина была в боксе.Через 1.5 часа я уже уезжала довольная.
+Получилась даже небольшая скидка.Претензий по работе нет,все на высшем уровне.Дали гарантию 5 лет.Спасибо</dfn></p>
+<hr>
+
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 		</div>
 	</div>
 <!-- //services -->
-<!-- services-bottom -->
-	<div class="services-bottom">
-		<div class="container">
-			<h3>«Каждый наш клиент становится постоянным!»</h3>
+
+
+
+
+
+</div>
+</div>
+</div>
+<br>
+
+
+
+
+
+<!-- //services-bottom -->
+
+
+
+<!-- stats -->
+	<div class="stats">
+		<div class="wthree_stat">
+			<div class="container">
+				<div class="col-md-5 wthree_stat_left">
+					<h3>Наша статистика</h3>
+					<p>За прошедший год</p>
+						
+				</div>
+				<div class="col-md-7 wthree_stat_right">
+					<ul>
+						<li>
+							<div class="xwthree_stat_right1">
+								<i class="fa fa-heart" aria-hidden="true"></i>
+								<h4>Советуют нас друзьям</h4>
+								<p class="counter">324</p> 
+							</div>
+						</li>
+						<li>
+							<div class="wthree_stat_right1">
+								<i class="glyphicon glyphicon-piggy-bank" aria-hidden="true"></i>
+								<h4>Благодарных клиентов</h4>
+								<p class="counter">412</p> 
+							</div>
+						</li>
+						<li>
+							<div class="wthree_stat_right1">
+								<i class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></i>
+								<h4>Получили<br> скидку</h4>
+								<p class="counter">231</p> 
+							</div>
+						</li>
+					</ul>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
+		</div>
+		<div class="w3layouts_newsletter">
+			<div class="container">
+				<div class="w3layouts_newsletter_left">
+					<h2>Подпишитесь на наши новости</h2>
+				</div>
+				<div class="w3layouts_newsletter_right">
+					<form action="#" method="post">
+						<input type="email" name="Email" placeholder="Email..." required="">
+						<input type="submit" value="Подписаться">
+					</form>
+				</div>
+				<div class="clearfix"> </div>
+			</div>
 		</div>
 	</div>
-<!-- //services-bottom -->
+<!-- //stats -->
+<!-- stats -->
+	<script src="js/waypoints.min.js"></script> 
+	<script src="js/counterup.min.js"></script> 
+	<script>
+		jQuery(document).ready(function( $ ) {
+			$('.counter').counterUp({
+				delay: 20,
+				time: 1000
+			});
+		});
+	</script>
+<!-- stats -->
 <!-- footer -->
 	<div class="footer">
 		<div class="container">

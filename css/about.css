@@ -22,6 +22,11 @@ p {
     font-family: DroidSerif;
    }
 
+/* body {
+  padding-top: 1%;
+} */
+
+
 .primer {
 margin-top:11px;
 font-size:1.3em;
@@ -129,6 +134,39 @@ input[type="submit"],input[type="reset"],.w3l_team_grd,.agileits_w3layouts_featu
     color: #f62b2b;
 
 }
+
+nav.navbar.navbar-default.navbar-fixed-top {
+    background:rgba(0, 0, 0, 0.35);
+    background: transparent;
+    border: none;
+    padding: .6em 0;
+	-webkit-transition:.5s all;
+	-moz-transition:.5s all; 
+	transition:.5s all;
+}
+
+nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
+    padding: .1em 0;
+    background: rgba(25, 25, 25, 0.85);
+} 
+
+container li a {
+    padding: 0 15px;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    transition: all 0.3s;
+    font-family: "Flama Medium","proxima-nova","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #c33;
+    border-radius: 40px;
+    line-height: 42px;
+}
+
+
+
+
 /*-- nav --*/
 .navbar-default {
     background: none;
@@ -147,16 +185,22 @@ input[type="submit"],input[type="reset"],.w3l_team_grd,.agileits_w3layouts_featu
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color:#fff;
     background: #0a9dbd;
+
+
 }
 .navbar-default .navbar-nav > li > a {
-    color: #212121;
+    color: #eeeeee;
     font-weight: 600;
+ 
 }
+
+
 .navbar-nav > li > a {
     margin: 0;
-    padding: 2em;
-    line-height: 1em;
+    padding: 1.9em;
+    line-height: 0.01em;
     text-transform: uppercase;
+    font-size: 0.9em;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #fff;
@@ -1237,6 +1281,20 @@ button.close {
     -o-background-size: 100% 100%;
     -ms-background-size: 100% 100%;
 }
+
+.features2{
+	background: url(../images/bently.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    -webkit-background-size: containcover;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -ms-background-size: 100% 100%;
+}
+
+
 .agile_head1,.w3_agile_para1{
 	color:#888;
 }

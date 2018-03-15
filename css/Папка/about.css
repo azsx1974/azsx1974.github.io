@@ -1,8 +1,6 @@
-
-/*
- @font-face {
+@font-face {
     font-family: DroidSerif; /* Имя шрифта */
-    src: url(../fonts/DroidSerif-Regular.ttf); /* Путь к файлу со шрифтом */
+    src: url(fonts/DroidSerif-Regular.ttf); /* Путь к файлу со шрифтом */
    }
    P {
     font-family: DroidSerif;
@@ -23,7 +21,6 @@ h2 {
 p {
     font-family: DroidSerif;
    }
-*/
 
 .primer {
 margin-top:11px;
@@ -40,20 +37,6 @@ color:red
 
 }
 
-.primer2 {
-margin-top:11px;
-font-size:1.3em;
-
-}
-
-.primer2 a {
-color:white
-
-}
-.primer2 a:hover {
-color:red
-
-}
 
 
 .imageTitle{
@@ -142,7 +125,7 @@ input[type="submit"],input[type="reset"],.w3l_team_grd,.agileits_w3layouts_featu
 	background: #0a9dbd;
 }
 .agileits_w3layouts_sign_in ul li span {
-    font-size: 1.3em;
+    font-size: 1.5em;
     color: #f62b2b;
 
 }
@@ -164,19 +147,17 @@ input[type="submit"],input[type="reset"],.w3l_team_grd,.agileits_w3layouts_featu
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color:#fff;
     background: #0a9dbd;
-
 }
 .navbar-default .navbar-nav > li > a {
     color: #212121;
     font-weight: 600;
-
 }
 .navbar-nav > li > a {
     margin: 0;
-    padding: 1.8em;
-    line-height: .1em;
+    padding: 2em;
+    line-height: 1em;
     text-transform: uppercase;
-	font-size: 0.85em;
+    font-size: 0.9em;
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #fff;
@@ -291,7 +272,6 @@ nav.navbar.navbar-default {
 	position: relative;
 	text-align: center;
 	padding: 10em 0 0;
-
 }
 .banner1{
 	background:url(../images/banner1.jpg) no-repeat 0px 0px;
@@ -303,8 +283,6 @@ nav.navbar.navbar-default {
 	min-height:300px;
 	text-align: center;
 }
-
-
 .banner h2{
     color: #fff;
     text-transform: uppercase;
@@ -447,7 +425,7 @@ a.w3ls_banner_more:hover{
 /*-- //banner --*/
 /*-- banner-bottom --*/
 .banner-bottom,.news,.services,.services-bottom,.features{
-	padding:5em 0;
+	padding:3em 0;
 }
 .w3l_banner_bottom_left h3,.agile_head,.wthree_stat_left h3{
 	font-size:2em;
@@ -1125,8 +1103,10 @@ button.close {
     text-transform: capitalize;
 }
 .w3_agile_services_grid p{
-	color:#111;
-	line-height:2em;
+	color:#ddd;
+	line-height:1.5em;
+        text-align: left;
+	
 }
 .column div {
 	position: relative;
@@ -1168,21 +1148,25 @@ button.close {
     -o-background-size: cover;
     -ms-background-size: cover;
     text-align: center;
+	max-width: 100%;
 }
 .services-bottom h3{
-	font-size: 2.5em;
+	font-size: 0.9em;
     line-height: 1.5em;
-    font-weight: 600;
+    font-weight: 400;
     color: #fff;
-    text-transform: uppercase;
+    text-transform: none;
+    text-align: left;
+
 }
 
 .2services-bottom h3{
 	font-size: 1.5em;
     line-height: 1.5em;
-    font-weight: 600;
+    font-weight: 400;
     color: #fff;
     text-transform: none;
+	text-align: left;
 }
 
 
@@ -1204,15 +1188,8 @@ button.close {
 .wthree_about_grid p{
 	color: #111;
     line-height: 2em;
-    margin: 0.4em 0 0.4em;
-}
-
-.2wthree_about_grid p{
-	color: #111;
-    line-height: 2em;
     margin: 2em 0 3em;
 }
-
 .wthree_about_grid h4{
 	 font-size: 1.8em;
     color: #212121;
@@ -1261,8 +1238,22 @@ button.close {
     -o-background-size: 100% 100%;
     -ms-background-size: 100% 100%;
 }
+
+.features2{
+	background: url(../images/bently.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    -webkit-background-size: containcover;
+    -moz-background-size: 100% 100%;
+    -o-background-size: 100% 100%;
+    -ms-background-size: 100% 100%;
+}
+
+
 .agile_head1,.w3_agile_para1{
-	color:#fff;
+	color:#888;
 }
 .agileits_w3layouts_features_grid{
 	padding:1em;
