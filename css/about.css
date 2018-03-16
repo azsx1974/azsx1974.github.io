@@ -26,7 +26,7 @@ p {
  body {
   padding-top: 50px;
 }
-
+*/
 
 .primer {
 margin-top:11px;
@@ -207,6 +207,7 @@ container li a {
     text-transform: uppercase;
     font-size: 0.8em;
 margin-top: .2em;
+
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
     color: #fff;
@@ -332,6 +333,7 @@ nav.navbar.navbar-default {
 	-ms-background-size:cover;
 	min-height:300px;
 	text-align: center;
+/*margin-top: -.5em;*/
 }
 .banner h2{
     color: #fff;
@@ -2512,8 +2514,8 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 		margin: 0;
 	}
 	.navbar-nav > li > a {
-		padding: 1.2em 0;
-		font-size: 13px;
+		padding: 1.4em 0;
+		font-size: 14px;
 	}
 	.agileinfo_search {
 		width: 60%;
