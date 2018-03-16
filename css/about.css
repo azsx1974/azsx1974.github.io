@@ -1,4 +1,4 @@
-/*
+ /*
 @font-face {
     font-family: DroidSerif; /* Имя шрифта */
     src: url(fonts/DroidSerif-Regular.ttf); /* Путь к файлу со шрифтом */
@@ -20,13 +20,15 @@ h2 {
    }
 
 p {
-    font-family: DroidSerif;
+    font-family: DroidSerif;*/
    }
 
+
+
  body {
-  padding-top: 50px;
+  padding-top: 47px;
 }
-*/
+
 
 .primer {
 margin-top:11px;
@@ -191,7 +193,7 @@ container li a {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color:#fff;
     background: #0a9dbd;
-
+box-shadow: 0px 2px 18px 2px black;
 }
 .navbar-default .navbar-nav > li > a {
     color: #222222;
@@ -2500,8 +2502,6 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 
     background: rgba(175, 175, 175, 0.9);
 } 
-
-
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 		background-color: transparent;
 	}
