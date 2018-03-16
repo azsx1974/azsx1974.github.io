@@ -843,7 +843,7 @@ a.w3ls_banner_more:hover{
 	width:50px;
 	height:50px;
 	border-radius:30px;
-	background:#212121;
+	background:#2e4255;
 	text-align:center;
 }
 .w3_footer_grid:hover .w3l_footer_grid {
@@ -852,7 +852,7 @@ a.w3ls_banner_more:hover{
 .w3l_footer_grid i{
 	font-size:1.5em;
 	color:#fff;
-	line-height:2em;
+	line-height: 1em;
 }
 .w3_footer_grid h4{
 	font-size: 1.2em;
@@ -866,7 +866,7 @@ a.w3ls_banner_more:hover{
 }
 .copyright{
 	padding:2em 0;
-	background:#212121;
+	background:#333333;
 }
 .w3ls_copyright_left{
 	float:left;
@@ -2263,7 +2263,7 @@ ul.contact_info li a:hover{
 }
 @media (max-width: 991px){
 	.navbar-nav > li > a {
-		padding: 1.65em 1em;
+		padding: 1.5em 1em;
 
 		font-size: 12px;
  
