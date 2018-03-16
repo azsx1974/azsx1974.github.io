@@ -29,6 +29,7 @@ body {
 }
 */
 
+
 .primer {
 margin-top:11px;
 font-size:1.3em;
@@ -81,7 +82,7 @@ html, body{
     font-size: 100%;
 	font-family: 'DroidSerif', DroidSerif;
 	background:#dddddd;
-	margin: 0;
+	margin: -7.5px;
 }
 p,ul li,ol li{
 	margin:0;
@@ -208,7 +209,6 @@ container li a {
 .navbar-default .navbar-nav > li > a {
     color: #222222;
     font-weight: 600;
-
 }
 .navbar-nav > li > a {
     margin: .2em;
@@ -216,7 +216,7 @@ container li a {
     line-height: .1em;
     text-transform: uppercase;
     font-size: 0.8em;
-margin-top: .2em;
+	margin-top: -.77em;
 
 }
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
@@ -344,7 +344,6 @@ nav.navbar.navbar-default {
 	-ms-background-size:cover;
 	min-height:300px;
 	text-align: center;
-
 }
 
 
@@ -2120,7 +2119,7 @@ ul.contact_info li a:hover{
 }
 @media (max-width: 1080px){
 	.navbar-nav > li > a {
-		padding: 1.4em 1.5em;
+		padding: 1.34em 1.5em;
 	}
 	.agileinfo_search {
 		width: 27%;
@@ -2261,7 +2260,7 @@ ul.contact_info li a:hover{
 }
 @media (max-width: 991px){
 	.navbar-nav > li > a {
-		padding: 1.5em 1em;
+		padding: 1.37em 1em;
 		font-size: 12px;
 	}
 	.w3_agile_logo h1 a {
@@ -2448,6 +2447,13 @@ ul.contact_info li a:hover{
 	.w3_agileits_news_grid_pos {
 		bottom: -9%;
 	}
+.navbar-nav > li > a {
+		padding: 1.4em 1em;
+		font-size: 12px;
+	}
+
+
+
 	.agileits_w3layouts_news_grid h5 {
 		margin: 2em 0 1em;
 	}
@@ -2467,6 +2473,11 @@ ul.contact_info li a:hover{
 		float: none;
 		margin: .5em 0;
 	}
+
+body {
+    
+   margin: 7.5px;
+}
 	.navbar-default .navbar-toggle {
 		border-color: #212121;
 	}
