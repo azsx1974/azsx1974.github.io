@@ -140,7 +140,7 @@ input[type="submit"],input[type="reset"],.w3l_team_grd,.agileits_w3layouts_featu
 
 nav.navbar-fixed-top.navbar.navbar-default {
     background:rgba(0, 0, 0, 0.35);
-    background: transparent;
+    background: #5654582b;
     border: none;
     padding: .6em 0;
 	-webkit-transition:.5s all;
@@ -193,7 +193,7 @@ container li a {
 .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
     color:#fff;
     background: #0a9dbd;
-box-shadow: 0px 2px 18px 2px black;
+box-shadow: 0px 1px 5px 1px black;
 }
 .navbar-default .navbar-nav > li > a {
     color: #222222;
@@ -204,7 +204,7 @@ box-shadow: 0px 2px 18px 2px black;
 
 .navbar-nav > li > a {
     margin: .2em;
-    padding: 1.3em;
+    padding: 1.2em;
     line-height: .1em;
     text-transform: uppercase;
     font-size: 0.8em;
@@ -281,6 +281,7 @@ nav.navbar.navbar-default {
   transition-duration: 0.3s;
   -webkit-transition-timing-function: ease-out;
   transition-timing-function: ease-out;
+box-shadow: 0px 1px 5px 1px black;
 }
 .hvr-sweep-to-bottom:hover, .hvr-sweep-to-bottom:active {
   color: white;
@@ -845,7 +846,7 @@ a.w3ls_banner_more:hover{
 	width:50px;
 	height:50px;
 	border-radius:30px;
-	background:#2e4255;
+	background: #203750;
 	text-align:center;
 }
 .w3_footer_grid:hover .w3l_footer_grid {
@@ -868,7 +869,7 @@ a.w3ls_banner_more:hover{
 }
 .copyright{
 	padding:2em 0;
-	background:#333333;
+	background:#383838;
 }
 .w3ls_copyright_left{
 	float:left;
@@ -914,7 +915,7 @@ a.w3ls_banner_more:hover{
     color: #fff;
     text-align: center;
     display: inline-block;
-    padding-top: .5em;
+    padding-top: 0;
     font-size: 13px;
 	background:#383838;
 }
@@ -2123,7 +2124,7 @@ ul.contact_info li a:hover{
 }
 @media (max-width: 1080px){
 	.navbar-nav > li > a {
-		padding: 1.4em 1.5em;
+		padding: 1.2em 1.5em;
 	}
 	.agileinfo_search {
 		width: 27%;
@@ -2265,7 +2266,7 @@ ul.contact_info li a:hover{
 }
 @media (max-width: 991px){
 	.navbar-nav > li > a {
-		padding: 1.5em 1em;
+		padding: 1.3em 1em;
 
 		font-size: 12px;
  
@@ -2500,7 +2501,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
     padding-bottom: 0px;
     padding-left: 0px;
 
-    background: rgba(175, 175, 175, 0.9);
+    background: rgba(136, 136, 146, 0.89);
 } 
 	.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
 		background-color: transparent;
