@@ -163,12 +163,13 @@ nav.navbar-fixed-top.navbar.navbar-default {
 
 
 nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
-   padding-top: 0.5em;
+   padding-top: 1.5em;
     padding-right: 0px;
     padding-bottom: 0px;
     padding-left: 0px;
-
+padding: -1.1em 0;
     background: rgba(175, 175, 175, 0.9);
+top: -15px;
 } 
 
 container li a {
