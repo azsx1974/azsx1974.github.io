@@ -337,6 +337,7 @@ box-shadow: 0px 1px 5px 1px black;
 	-ms-background-size:cover;
 	min-height:300px;
 	text-align: center;
+padding: 1em 0 0;
 /*margin-top: -.5em;*/
 }
 .banner h2{

@@ -27,6 +27,10 @@ body {
   padding-top: 47px;
 }
 
+.banner h3 {
+		font-size: 1.7em;
+		color: #cccccc;
+	}
 
 .primer {
 margin-top:11px;
@@ -55,6 +59,21 @@ color:white
 }
 .primer2 a:hover {
 color:red
+
+}
+
+.primer3 {
+margin-top:11px;
+font-size:1.1em;
+
+}
+
+.primer3 a {
+color: #0a9dff;
+font-size:.6em;
+}
+.primer3 a:hover {
+color:green
 
 }
 
@@ -109,6 +128,11 @@ input[type="submit"],input[type="reset"],.w3l_team_grd,.agileits_w3layouts_featu
 .agile_header_grid{
 	padding: 1em 0;
 	border-bottom: 1px solid #e6e6e6;
+}
+
+.agile_header_grid2{
+	padding: 1em 0;
+	border-bottom: 1px solid red;
 }
 .w3_agile_logo{
 	float:left;
@@ -332,7 +356,7 @@ box-shadow: 0px 1px 5px 1px black;
 	min-height:700px;
 	position: relative;
 	text-align: center;
-	padding: 10em 0 0;
+	padding: 1em 0 0;
 
 }
 .banner1{
@@ -344,6 +368,7 @@ box-shadow: 0px 1px 5px 1px black;
 	-ms-background-size:cover;
 	min-height:300px;
 	text-align: center;
+padding: 1em 0 0;
 }
 
 
@@ -2108,6 +2133,10 @@ ul.contact_info li a:hover{
 	.w3_two_grid_right {
 		padding: 1.1em 2em;
 	}
+.w3_two_grid_left img {
+		min-height: 420px;
+
+	}
 	.effect .mask {
 		border-width: 211px;
 	}
@@ -2147,10 +2176,15 @@ ul.contact_info li a:hover{
 		font-size: 1.2em;
 	}
 	.w3_two_grid_left img {
-		min-height: 424px;
+		min-height: 420px;
+
 	}
 	.banner h2 {
 		font-size: 2.8em;
+	}
+.banner h3 {
+		font-size: 1.4em;
+		color: #bbbbbb;
 	}
 	.nbs-flexisel-nav-left {
 		left: 93%;
@@ -2255,6 +2289,7 @@ ul.contact_info li a:hover{
 	}
 	.w3_two_grid_right {
 		padding: 1.1em 1.5em;
+
 	}
 	.effect .mask {
 		border-width: 168px;
@@ -2672,6 +2707,7 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 	}
 	.banner {
 		padding: 3em 0;
+
 	}
 	.modal-body p i {
 		margin: 1em 0 0;
@@ -2842,11 +2878,19 @@ nav.navbar.navbar-default.navbar-fixed-top.top-nav-collapse {
 	.agileits_w3layouts_sign_in ul li {
 		font-size: 13px;
 	}
+	.cena {
+	font-size: 5.7em;
+
+	}
 	.w3_agile_logo h1 a {
 		font-size: .8em;
 	}
 	.banner h2 {
 		font-size: 1.2em;
+	}
+.banner h3 {
+		font-size: .9em;
+		color: #bbbbbb;
 	}
 	.wthree_banner_grid i {
 		font-size: 1.5em;
